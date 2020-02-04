@@ -27,18 +27,22 @@
         "mainCategory": "Fiction",
         "subCategories": ["Classic", "Children"],
         "cover": {
-          "thumbnail": "http://www.gutenberg.org/files/28885/28885-h/images/cover.jpg"
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1580640816/cover_gqorkk.jpg"
         },
         "chapters": [
           {
             "number": 1,
             "title": "Down the Rabbit-hole",
             "page": 1,
-            "audio": "https://ia600306.us.archive.org/25/items/alice_wonderland_0711_librivox/alice_01_carroll_64kb.mp3",
+            "audio": {
+              "file": "https://ia600306.us.archive.org/25/items/alice_wonderland_0711_librivox/alice_01_carroll_64kb.mp3",
+              "duration": "13:06"
+            },
             "initial": {
               "illustration": "http://www.gutenberg.org/files/28885/28885-h/images/a.png",
               "letter": "A",
-              "width": 71
+              "width": 71,
+              "position": "left"
             },
             "paragraphs": [
               {
@@ -105,6 +109,7 @@
                 "number": 13,
                 "illustration": "http://www.gutenberg.org/files/28885/28885-h/images/f0002-image.jpg",
                 "width": 256,
+                "position": "right",
                 "description": "Alice"
               },
               {
@@ -173,78 +178,177 @@
             "number": 2,
             "title": "The Pool of Tears",
             "page": 13,
-            "paragraphs": [],
-            "illustrations": []
+            "audio": "",
+            "initial": {
+              "illustration": "",
+              "letter": "",
+              "width": 71,
+              "position": "left"
+            },
+            "paragraphs": []
           },
           {
             "number": 3,
             "title": "A Caucus-race and a Long Tale",
             "page": 24,
-            "paragraphs": [],
-            "illustrations": []
+            "audio": "",
+            "initial": {
+              "illustration": "",
+              "letter": "",
+              "width": 71,
+              "position": "left"
+            },
+            "paragraphs": []
           },
           {
             "number": 4,
             "title": "The Rabbit sends in a Little Bill",
             "page": 35,
-            "paragraphs": [],
-            "illustrations": []
+            "audio": "",
+            "initial": {
+              "illustration": "",
+              "letter": "",
+              "width": 71,
+              "position": "left"
+            },
+            "paragraphs": []
           },
           {
             "number": 5,
             "title": "Advice from a Caterpillar",
             "page": 49,
-            "paragraphs": [],
-            "illustrations": []
+            "audio": "",
+            "initial": {
+              "illustration": "",
+              "letter": "",
+              "width": 71,
+              "position": "left"
+            },
+            "paragraphs": []
           },
           {
             "number": 6,
             "title": " Pig and Pepper",
             "page": 64,
-            "paragraphs": [],
-            "illustrations": []
+            "audio": "",
+            "initial": {
+              "illustration": "",
+              "letter": "",
+              "width": 71,
+              "position": "left"
+            },
+            "paragraphs": []
           },
           {
             "number": 7,
             "title": "A Mad Tea-party",
             "page": 82,
-            "paragraphs": [],
-            "illustrations": []
+            "audio": "",
+            "initial": {
+              "illustration": "",
+              "letter": "",
+              "width": 71,
+              "position": "left"
+            },
+            "paragraphs": []
           },
           {
             "number": 8,
             "title": "The Queen's Croquet-ground",
             "page": 96,
-            "paragraphs": [],
-            "illustrations": []
+            "audio": "",
+            "initial": {
+              "illustration": "",
+              "letter": "",
+              "width": 71,
+              "position": "left"
+            },
+            "paragraphs": []
           },
           {
             "number": 9,
             "title": "The Mock Turtle's Story",
             "page": 111,
-            "paragraphs": [],
-            "illustrations": []
+            "audio": "",
+            "initial": {
+              "illustration": "",
+              "letter": "",
+              "width": 71,
+              "position": "left"
+            },
+            "paragraphs": []
           },
           {
             "number": 10,
             "title": "The Lobster Quadrille",
             "page": 126,
-            "paragraphs": [],
-            "illustrations": []
+            "audio": "",
+            "initial": {
+              "illustration": "",
+              "letter": "",
+              "width": 71,
+              "position": "left"
+            },
+            "paragraphs": []
           },
           {
             "number": 11,
             "title": "Who Stole the Tarts?",
             "page": 139,
-            "paragraphs": [],
-            "illustrations": []
+            "audio": "",
+            "initial": {
+              "illustration": "",
+              "letter": "",
+              "width": 71,
+              "position": "left"
+            },
+            "paragraphs": []
           },
           {
             "number": 12,
             "title": "Alice's Evidence",
             "page": 150,
-            "paragraphs": [],
-            "illustrations": []
+            "audio": "",
+            "initial": {
+              "illustration": "",
+              "letter": "",
+              "width": 71,
+              "position": "left"
+            },
+            "paragraphs": []
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Second Book",
+        "authors": [
+          {
+            "id": 3,
+            "surname": "Writer",
+            "initials": "",
+            "name": "Mr"
+          }
+        ],
+        "illustrators": [],
+        "language": "en",
+        "publisher": "Gutenberg",
+        "publishedDate": "2020-01-01",
+        "description": "Short description...",
+        "pageCount": 1,
+        "mainCategory": "Fiction",
+        "subCategories": [],
+        "cover": {
+          "thumbnail": "https://via.placeholder.com/325"
+        },
+        "chapters": [
+          {
+            "number": 1,
+            "title": "First Chapter",
+            "page": 1,
+            "audio": "",
+            "initial": {},
+            "paragraphs": []
           }
         ]
       }

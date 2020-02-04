@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
-import { AppBar, Toolbar, Typography, Container } from '@material-ui/core'
+import { BrowserRouter as Router } from 'react-router-dom'
 import bookService from './services/books'
-import Book from './components/Book'
+import AudioBooks from './components/AudioBooks'
 
 const App = () => {
   const [books, setBooks] = useState([])
@@ -13,32 +13,15 @@ const App = () => {
   }, [])
 
   return (
-    <div>
-      <AppBar position="fixed">
-        <Toolbar>
-          <Typography variant="h6" component="h1" color="inherit">
-            Audiobooks
-          </Typography>
-        </Toolbar>
-      </AppBar>
-      <Toolbar />
-
+    <Router>
       <div>
-        <Container maxWidth="lg" component="main">
-          {books.map(b => (
-            <div key={b.id}>
-              <Book book={b} />
-            </div>
-          ))}
-        </Container>
+        {books.length > 0 ? (
+          <AudioBooks books={books} />
+        ) : (
+          <div>Loading...</div>
+        )}
       </div>
-
-      <Container component="footer">
-        <Typography variant="body2">
-          Copyrignt &copy; 2020 <strong>Nina Welch</strong>
-        </Typography>
-      </Container>
-    </div>
+    </Router>
   )
 }
 
