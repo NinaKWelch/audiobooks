@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Box, Typography } from '@material-ui/core'
-import BookParagraph from './BookParagraph'
+import BookSection from './BookSection'
 
 const BookChapter = ({ chapter }) => {
   return (
@@ -22,8 +22,8 @@ const BookChapter = ({ chapter }) => {
         ''
       )}
 
-      {chapter.paragraphs.map(paragraph => (
-        <BookParagraph key={paragraph.number} paragraph={paragraph} />
+      {chapter.sections.map(section => (
+        <BookSection key={section.number} section={section} />
       ))}
     </div>
   )
@@ -38,7 +38,7 @@ BookChapter.propTypes = {
       letter: PropTypes.string,
       position: PropTypes.string
     }),
-    paragraphs: PropTypes.array.isRequired
+    sections: PropTypes.array
   }).isRequired
 }
 
