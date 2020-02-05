@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState } from 'react'
 import PropTypes from 'prop-types'
 import { makeStyles } from '@material-ui/core/styles'
 import { Container, Grid, IconButton, Slider } from '@material-ui/core'
@@ -27,6 +27,7 @@ const useStyles = makeStyles(theme => ({
 const AudioPlayer = ({ chapters }) => {
   const classes = useStyles()
   const [value, setValue] = useState(0)
+  const [endValue, setEndValue] = useState(0)
   const [counter, setCounter] = useState('00:00')
   const [play, setPlay] = useState(false)
 
@@ -42,27 +43,27 @@ const AudioPlayer = ({ chapters }) => {
     return `${min}:${sec}`
   }
 
-  useEffect(() => {
-    const player = document.getElementById('audioPlayer')
+  const handlePlay = event => {
+    const { duration } = event.target
+    setEndValue(duration)
+  }
 
-    player.addEventListener('timeupdate', () => {
-      const { duration, currentTime } = player
-      const pointer = (currentTime / duration).toFixed(3)
-      const time = showProgressInTime(currentTime)
-
-      setCounter(time)
-      setValue(pointer)
-    })
-  }, [value])
+  const handleUpdate = event => {
+    const { currentTime } = event.target
+    const time = showProgressInTime(currentTime)
+    setCounter(time)
+    setValue(currentTime)
+  }
 
   const handleChange = (event, newValue) => {
+    const player = document.getElementById('audioPlayer')
+    player.currentTime = newValue
     setValue(newValue)
   }
 
   const togglePlay = state => {
     const player = document.getElementById('audioPlayer')
     player.controls = false
-
     setPlay(state)
 
     if (state === true) {
@@ -74,8 +75,13 @@ const AudioPlayer = ({ chapters }) => {
   return (
     <div className={classes.root}>
       <Container className={classes.player}>
-        <audio id="audioPlayer">
-          <track kind="captions" label={chapters[0].title} />
+        <audio
+          id="audioPlayer"
+          onCanPlay={handlePlay}
+          onTimeUpdate={handleUpdate}
+          crossOrigin="anonymous"
+        >
+          <track kind="captions" label={chapters[0].caption} />
           <source src={chapters[0].audio.file} type="audio/mp3" />
         </audio>
         <Grid container spacing={3} alignItems="center" justify="space-between">
@@ -84,12 +90,12 @@ const AudioPlayer = ({ chapters }) => {
             <Slider
               value={value}
               onChange={handleChange}
-              step={0.001}
-              min={0.001}
-              max={1.306}
+              step={0.00001}
+              min={0.00001}
+              max={endValue}
             />
           </Grid>
-          <Grid item>{chapters[0].audio.duration}</Grid>
+          <Grid item>{showProgressInTime(endValue)}</Grid>
           <Grid item>
             <IconButton
               color="primary"
