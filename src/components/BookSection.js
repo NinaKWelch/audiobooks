@@ -2,13 +2,18 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Box, Typography } from '@material-ui/core'
 
-const BookSection = ({ section }) => {
+const BookSection = ({ section, handleAudio }) => {
+  const play = time => {
+    handleAudio(time)
+  }
+
   if (section.type === 'illustration') {
     return (
       <Box
         maxWidth={section.width}
-        ml={section.position === 'right' ? 1 : 0}
-        mr={section.position === 'left' ? 1 : 0}
+        mt={0}
+        ml={section.position === 'right' ? 2 : 0}
+        mr={section.position === 'left' ? 2 : 0}
         clone
       >
         <figure style={{ float: `${section.position}` }}>
@@ -23,7 +28,11 @@ const BookSection = ({ section }) => {
 
   if (section.type === 'rhyme') {
     return (
-      <Box mb={2}>
+      <Box
+        mb={1}
+        onClick={() => play(section.timestamp)}
+        style={{ cursor: 'pointer' }}
+      >
         {section.content.map(c => (
           <Typography key={c.number} variant="body1" align="center">
             {c.line}
@@ -34,7 +43,7 @@ const BookSection = ({ section }) => {
   }
 
   return (
-    <Box>
+    <Box onClick={() => play(section.timestamp)} style={{ cursor: 'pointer' }}>
       <Typography variant="body1" gutterBottom>
         {section.content}
       </Typography>
@@ -46,12 +55,14 @@ BookSection.propTypes = {
   section: PropTypes.shape({
     type: PropTypes.string.isRequired,
     content: PropTypes.oneOfType([PropTypes.string, PropTypes.array]),
+    timestamp: PropTypes.number,
     illustration: PropTypes.string,
     alt: PropTypes.string,
     caption: PropTypes.string,
     width: PropTypes.number,
     position: PropTypes.string
-  }).isRequired
+  }).isRequired,
+  handleAudio: PropTypes.func.isRequired
 }
 
 export default BookSection

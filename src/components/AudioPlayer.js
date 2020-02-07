@@ -24,7 +24,7 @@ const useStyles = makeStyles(theme => ({
   }
 }))
 
-const AudioPlayer = ({ chapters }) => {
+const AudioPlayer = ({ track }) => {
   const classes = useStyles()
   const [value, setValue] = useState(0)
   const [endValue, setEndValue] = useState(0)
@@ -81,8 +81,8 @@ const AudioPlayer = ({ chapters }) => {
           onTimeUpdate={handleUpdate}
           crossOrigin="anonymous"
         >
-          <track kind="captions" label={chapters[0].caption} />
-          <source src={chapters[0].audio.file} type="audio/mp3" />
+          <track kind="captions" label={track.caption} />
+          <source src={track.file} type="audio/mp3" />
         </audio>
         <Grid container spacing={3} alignItems="center" justify="space-between">
           <Grid item>{counter}</Grid>
@@ -113,7 +113,10 @@ const AudioPlayer = ({ chapters }) => {
 }
 
 AudioPlayer.propTypes = {
-  chapters: PropTypes.arrayOf(PropTypes.object).isRequired
+  track: PropTypes.shape({
+    caption: PropTypes.string,
+    file: PropTypes.string
+  }).isRequired
 }
 
 export default AudioPlayer
