@@ -1,22 +1,22 @@
 import React, { useState, useEffect } from 'react'
 import { BrowserRouter as Router } from 'react-router-dom'
-import bookService from './services/books'
-import AudioBooks from './components/AudioBooks'
+import catalogueService from './services/catalogue'
+import Library from './components/Library'
 
 const App = () => {
-  const [books, setBooks] = useState([])
+  const [catalogue, setCatalogue] = useState([])
 
   useEffect(() => {
-    bookService.getAll().then(initialBooks => {
-      setBooks(initialBooks)
+    catalogueService.getAll().then(initialCatalogue => {
+      setCatalogue(initialCatalogue)
     })
   }, [])
 
   return (
     <Router>
       <div>
-        {books.length > 0 ? (
-          <AudioBooks books={books} />
+        {catalogue.length > 0 ? (
+          <Library catalogue={catalogue} />
         ) : (
           <div>Loading...</div>
         )}

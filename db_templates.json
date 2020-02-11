@@ -1,0 +1,240 @@
+{ 
+  "audiobooks": [
+    {
+      "id": 50000,
+      "book": {
+        "id": 10000,
+        "title": "",
+        "authors": [{ "id": 20000, "name":"Lewis Carroll" }],
+        "thumbnail": "https://via.placeholder.com/325"
+      },
+      "recording": {
+        "readers": [{ "id": 80000, "name": "" }]
+      },
+      "tracks": [
+        {
+          "id": 50000.1,
+          "section": {
+            "id": 10000.1,
+            "title": "Down the Rabbit-hole"
+          },
+          "file": "",
+          "markers": [{ "id": 50000.11, "value": 0, "subsection": { "id": 10000.11 } }]
+        }
+      ]
+    }
+  ],
+  "authors": [
+    {
+      "id": 20000,
+      "surname": "Carroll",
+      "initials": "",
+      "name": "Lewis",
+      "books": [
+        {
+          "id": 10000,
+          "title": "",
+          "authors": [{ "id": 20000, "name": ""}],
+          "tumbnail": "https://via.placeholder.com/325"
+        }
+      ]
+    }
+  ],
+  "books": [
+    {
+      "id": 10000,
+      "title": "",
+      "subtitle": "",
+      "authors": [{ "id": 20000, "name": "" }],
+      "illustrators": [{ "id": 30000, "name": "" }],
+      "cover": "https://via.placeholder.com/750",
+      "parts": [
+        {
+          "id": 10000.1,
+          "type": "",
+          "title": "",
+          "sections": [
+            {
+              "id": 10000.11,
+              "type": "",
+              "title": "",
+              "track": { "id": 50000.11 },
+              "initial": {  "illustration": "", "letter": "", "width": 0 },
+              "subsections": [
+                {
+                  "id": 10000.111,
+                  "type": "paragraph",
+                  "content": "Text...",
+                  "marker": {"id": 50000.111 }
+                },
+                {
+                  "id": 10000.112,
+                  "type": "illustration",
+                  "content": "https://via.placeholder.com/750",
+                  "alt": "",
+                  "caption": "",
+                  "width": 0,
+                  "position": ""
+                },  
+                {
+                  "id": 10000.113,
+                  "type": "rhyme",
+                  "content": [{"id": 10000.1131, "line": "" }],
+                  "marker": { "id": 50000.113 }
+                },
+                {
+                  "id": 10000.114,
+                  "type": "scene",
+                  "content": "Text...",
+                  "marker": {"id": 50000.114 }
+                },
+                {
+                  "id": 10000.115,
+                  "type": "dialogue",
+                  "speaker": "",
+                  "content": "Text...",
+                  "marker": {"id": 50000.115 }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "catalogue": [
+    {
+      "id": 10000,
+      "title": "",
+      "authors": [{ "id": 20000, "name": "" }],
+      "illustrators": [{ "id": 30000, "name": "" }],
+      "language": "en",
+      "publisher": "Gutenberg",
+      "publishedDate": "2009-05-19",
+      "description": "Short description...",
+      "categories": [ { "id": 40000, "name": "" }],
+      "price": "free",
+      "downloads": 0,
+      "rating": 0,
+      "tumbnail": "https://via.placeholder.com/325"
+    }
+  ],
+  "clubs": [
+    {
+      "id": 60000,
+      "name": "",
+      "description": "Short description...",
+      "start": "01.06.2020",
+      "end": "01.07.2020",
+      "host": { "id": 70000, "name": "", "avatar": "https://via.placeholder.com/150" },
+      "members": [{ "id": 80000, "username": "", "avatar": "https://via.placeholder.com/150" }],
+      "books": [
+        {
+          "id": 10000,
+          "title": "",
+          "authors": [{ "id": 20000, "name": "" }],
+          "thumbnail": "https://via.placeholder.com/325"
+        }
+      ]
+    }       
+  ],
+  "genres": [
+    { 
+      "id": 40000,
+      "name": "",
+      "ranking": 1,
+      "books": [
+        {
+          "id": 10000,
+          "title": "",
+          "authors": [{ "id": 20000, "name": ""}],
+          "tumbnail": "https://via.placeholder.com/325"
+        }
+      ]
+    }
+  ],
+  "illustrators": [
+    {
+      "id": 30000,
+      "surname": "",
+      "initials": "",
+      "name": "",
+      "books": [
+        {
+          "id": 10000,
+          "title": "",
+          "authors": [{ "id": 20000, "name": ""}],
+          "tumbnail": "https://via.placeholder.com/325"
+        }
+      ]
+    }
+  ],
+  "readers": [
+    {
+      "id": 80000,
+      "surname": "",
+      "initials": "",
+      "name": "",
+      "avatar": "https://via.placeholder.com/150",
+      "books": [
+        {
+          "id": 10000,
+          "title": "",
+          "authors": [{ "id": 20000, "name": ""}],
+          "tumbnail": "https://via.placeholder.com/325"
+
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": 70000,
+      "surname": "",
+      "name": "",
+      "username": "",
+      "avatar": "https://via.placeholder.com/150",
+      "settings": {
+        "audio": true,
+        "text": false,
+        "reading": [
+          {
+            "id": 10000,
+            "location": { "id": 10000.11 }
+          }
+        ],
+        "genres": [{ "id": 40000, "name": "" }]
+      },
+      "books": [
+        {
+          "id": 10000,
+          "title": "",
+          "authors": [{ "id": 20000, "name": ""}],
+          "tumbnail": "https://via.placeholder.com/325",
+          "price": "",
+          "shelf": ""
+        }
+      ],
+      "clubs": [
+        {
+          "id": 60001,
+          "role": ""
+        }
+      ],
+      "activity": {
+        "bookmarks": [
+         {}
+        ],
+        "comments": [
+          {}
+        ],
+        "messages": [
+          {}
+        ],
+        "notes": [
+           {}
+        ]
+      }
+    }
+  ]
+}

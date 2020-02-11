@@ -16,6 +16,7 @@ const Book = ({ book }) => {
 
   const toggleChapter = async id => {
     loadPlayer()
+    // eslint-disable-next-line eqeqeq
     const chapter = await book.chapters.find(c => c.number == id)
     setTrack(chapter)
   }
