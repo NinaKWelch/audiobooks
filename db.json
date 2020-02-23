@@ -11,7 +11,7 @@
             "name":"Lewis Carroll"
           }
         ],
-        "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1580640816/cover_gqorkk.jpg"
+        "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_carroll_alices_adventures_in_wonderland_coevc4.jpg"
       },
       "recording": {
         "readers": [
@@ -94,108 +94,108 @@
               } 
             },
             { 
-              "id": 50001.1110,
-              "value": 284,
-              "subsection": {
-                "id": 10001.1110
-              } 
-            },
-            { 
               "id": 50001.1111,
-              "value": 356,
+              "value": 284,
               "subsection": {
                 "id": 10001.1111
               } 
             },
             { 
               "id": 50001.1112,
-              "value": 393,
+              "value": 356,
               "subsection": {
                 "id": 10001.1112
               } 
             },
             { 
-              "id": 50001.1114,
-              "value": 409,
+              "id": 50001.1113,
+              "value": 393,
               "subsection": {
-                "id": 10001.1114
+                "id": 10001.1113
               } 
             },
             { 
               "id": 50001.1115,
-              "value": 446,
+              "value": 409,
               "subsection": {
                 "id": 10001.1115
               } 
             },
             { 
               "id": 50001.1116,
-              "value": 495,
+              "value": 446,
               "subsection": {
                 "id": 10001.1116
               } 
             },
             { 
               "id": 50001.1117,
-              "value": 524,
+              "value": 495,
               "subsection": {
                 "id": 10001.1117
               } 
             },
             { 
               "id": 50001.1118,
-              "value": 572,
+              "value": 524,
               "subsection": {
                 "id": 10001.1118
               } 
             },
             { 
               "id": 50001.1119,
-              "value": 595,
+              "value": 572,
               "subsection": {
                 "id": 10001.1119
               } 
             },
             { 
-              "id": 50001.1120,
-              "value": 601,
-              "subsection": {
-                "id": 10001.1120
-              } 
-            },
-            { 
               "id": 50001.1121,
-              "value": 638,
+              "value": 595,
               "subsection": {
                 "id": 10001.1121
               } 
             },
             { 
               "id": 50001.1122,
-              "value": 673,
+              "value": 601,
               "subsection": {
                 "id": 10001.1122
               } 
             },
             { 
               "id": 50001.1123,
-              "value": 714,
+              "value": 638,
               "subsection": {
                 "id": 10001.1123
               } 
             },
             { 
               "id": 50001.1124,
-              "value": 742,
+              "value": 673,
               "subsection": {
                 "id": 10001.1124
               } 
             },
             { 
               "id": 50001.1125,
-              "value": 773,
+              "value": 714,
               "subsection": {
                 "id": 10001.1125
+              } 
+            },
+            { 
+              "id": 50001.1126,
+              "value": 742,
+              "subsection": {
+                "id": 10001.1126
+              } 
+            },
+            { 
+              "id": 50001.1127,
+              "value": 773,
+              "subsection": {
+                "id": 10001.1127
               }
             }
           ]
@@ -272,129 +272,129 @@
               } 
             },
             { 
-              "id": 50001.1210,
-              "value": 227.5,
-              "subsection": {
-                "id": 10001.1210
-              } 
-            },
-            { 
               "id": 50001.1211,
-              "value": 300,
+              "value": 227.5,
               "subsection": {
                 "id": 10001.1211
               } 
             },
             { 
               "id": 50001.1212,
-              "value": 309.5,
+              "value": 300,
               "subsection": {
                 "id": 10001.1212
               } 
             },
             { 
               "id": 50001.1213,
-              "value": 319,
+              "value": 309.5,
               "subsection": {
                 "id": 10001.1213
               } 
             },
             { 
               "id": 50001.1214,
-              "value": 368,
+              "value": 319,
               "subsection": {
                 "id": 10001.1214
               } 
             },
             { 
               "id": 50001.1215,
-              "value": 401,
+              "value": 368,
               "subsection": {
                 "id": 10001.1215
               } 
             },
             { 
               "id": 50001.1216,
-              "value": 432.5,
+              "value": 401,
               "subsection": {
                 "id": 10001.1216
               } 
             },
             { 
               "id": 50001.1217,
-              "value": 473,
+              "value": 432.5,
               "subsection": {
                 "id": 10001.1217
               } 
             },
             { 
               "id": 50001.1218,
-              "value": 489,
+              "value": 473,
               "subsection": {
                 "id": 10001.1218
               } 
             },
             { 
               "id": 50001.1219,
-              "value": 506.5,
+              "value": 489,
               "subsection": {
                 "id": 10001.1219
               } 
             },
             { 
               "id": 50001.1221,
-              "value": 552,
+              "value": 506.5,
               "subsection": {
                 "id": 10001.1221
               } 
             },
             { 
-              "id": 50001.1222,
-              "value": 586.5,
-              "subsection": {
-                "id": 10001.1222
-              } 
-            },
-            { 
               "id": 50001.1223,
-              "value": 594,
+              "value": 552,
               "subsection": {
                 "id": 10001.1223
               } 
             },
             { 
               "id": 50001.1224,
-              "value": 635,
+              "value": 586.5,
               "subsection": {
                 "id": 10001.1224
               } 
             },
             { 
               "id": 50001.1225,
-              "value": 649,
+              "value": 594,
               "subsection": {
                 "id": 10001.1225
               } 
             },
             { 
               "id": 50001.1226,
-              "value": 697,
+              "value": 635,
               "subsection": {
                 "id": 10001.1226
               } 
             },
             { 
               "id": 50001.1227,
-              "value": 706,
+              "value": 649,
               "subsection": {
                 "id": 10001.1227
               } 
             },
             { 
               "id": 50001.1228,
-              "value": 727,
+              "value": 697,
               "subsection": {
                 "id": 10001.1228
+              } 
+            },
+            { 
+              "id": 50001.1229,
+              "value": 706,
+              "subsection": {
+                "id": 10001.1229
+              } 
+            },
+            { 
+              "id": 50001.1231,
+              "value": 727,
+              "subsection": {
+                "id": 10001.1231
               } 
             }
           ]
@@ -520,29 +520,12 @@
           ]
         },
         {
-          "id": 50001.10,
-          "section": {
-            "id": 10001.10,
-            "title": "The Lobster Quadrille"
-          },
-          "file": "https://ia800306.us.archive.org/25/items/alice_wonderland_0711_librivox/alice_10_carroll.mp3",
-          "markers": [
-            { 
-              "id": 50001.101,
-              "value": 0,
-              "subsection": {
-                "id": 10001.101
-              } 
-            }
-          ]
-        },
-        {
           "id": 50001.11,
           "section": {
             "id": 10001.11,
-            "title": "Who Stole the Tarts?"
+            "title": "The Lobster Quadrille"
           },
-          "file": "https://ia800306.us.archive.org/25/items/alice_wonderland_0711_librivox/alice_11_carroll.mp3",
+          "file": "https://ia800306.us.archive.org/25/items/alice_wonderland_0711_librivox/alice_10_carroll.mp3",
           "markers": [
             { 
               "id": 50001.111,
@@ -552,21 +535,38 @@
               } 
             }
           ]
-        }
-        ,
+        },
         {
           "id": 50001.12,
           "section": {
             "id": 10001.12,
+            "title": "Who Stole the Tarts?"
+          },
+          "file": "https://ia800306.us.archive.org/25/items/alice_wonderland_0711_librivox/alice_11_carroll.mp3",
+          "markers": [
+            { 
+              "id": 50001.112,
+              "value": 0,
+              "subsection": {
+                "id": 10001.112
+              } 
+            }
+          ]
+        }
+        ,
+        {
+          "id": 50001.13,
+          "section": {
+            "id": 10001.13,
             "title": "Alice's Evidence"
           },
           "file": "https://ia800306.us.archive.org/25/items/alice_wonderland_0711_librivox/alice_12_carroll.mp3",
           "markers": [
             { 
-              "id": 50001.121,
+              "id": 50001.131,
               "value": 0,
               "subsection": {
-                "id": 10001.121
+                "id": 10001.131
               } 
             }
           ]
@@ -584,7 +584,7 @@
             "name": "Edward Bulwer Lytton"
           }
         ],
-        "thumbnail": "https://via.placeholder.com/325"
+        "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_bulwer-lytton_zanoni_efabdd.jpg"
       },
       "recording": {
         "readers": [
@@ -625,7 +625,7 @@
             "name": "Hermann Hesse"
           }
         ],
-        "thumbnail": "https://via.placeholder.com/325"
+        "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432131/cover_hesse_siddhartha_jmsaxa.jpg"
       },
       "recording": {
         "readers": [
@@ -666,7 +666,7 @@
             "name": "Ralph Waldo Emerson"
           }
         ],
-        "thumbnail": "https://via.placeholder.com/325"
+        "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432131/cover_emerson_essyes_qrznjz.jpg"
       },
       "recording": {
         "readers": [
@@ -707,7 +707,7 @@
             "name": "Frank Norris"
           }
         ],
-        "thumbnail": "https://via.placeholder.com/325"
+        "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_norris_mcteague_rmf2fa.jpg"
       },
       "recording": {
         "readers": [
@@ -748,7 +748,7 @@
             "name": "Homer"
           }
         ],
-        "thumbnail": "https://via.placeholder.com/325"
+        "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_homer_iliad_nmmqbl.jpg]"
       },
       "recording": {
         "readers": [
@@ -795,7 +795,7 @@
               "name":"Lewis Carroll"
             }
           ],
-          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1580640816/cover_gqorkk.jpg"
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_carroll_alices_adventures_in_wonderland_coevc4.jpg"
         }
       ]
     },
@@ -814,7 +814,7 @@
               "name":"Edward Bulwer-Lytton"
             }
           ],
-          "thumbnail": "https://via.placeholder.com/325"
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_bulwer-lytton_zanoni_efabdd.jpg"
         }
       ]
     },
@@ -833,7 +833,7 @@
               "name":"Herman Hesse"
             }
           ],
-          "thumbnail": "https://via.placeholder.com/325"
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432131/cover_hesse_siddhartha_jmsaxa.jpg"
         }
       ]
     },
@@ -852,7 +852,7 @@
               "name": "Ralph Waldo Emerson"
             }
           ],
-          "thumbnail": "https://via.placeholder.com/325"
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432131/cover_emerson_essyes_qrznjz.jpg"
         }
       ]
     },
@@ -871,7 +871,7 @@
               "name": "Frank Norris"
             }
           ],
-          "thumbnail": "https://via.placeholder.com/325"
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_norris_mcteague_rmf2fa.jpg"
         }
       ]
     },
@@ -890,7 +890,7 @@
               "name": "Homer"
             }
           ],
-          "thumbnail": "https://via.placeholder.com/325"
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_homer_iliad_nmmqbl.jpg"
         }
       ]
     }
@@ -912,12 +912,17 @@
           "name": "Arthur Rackham"
         } 
       ],
-      "cover": "https://res.cloudinary.com/ninaw/image/upload/v1580640816/cover_gqorkk.jpg",
+      "cover": "https://via.placeholder.com/660",
+      "audiobook": {
+        "id": 50001
+      },
       "parts": [
         {
           "id": 10001.1,
           "type": "",
           "title": "",
+          "subtitle": "",
+          "prologue": [],
           "sections": [
             {
               "id": 10001.11,
@@ -1005,17 +1010,9 @@
                   }
                 },
                 {
-                  "id": 10001.1110,
-                  "type": "paragraph",
-                  "content": "Down, down, down. There was nothing else to do, so Alice soon began talking again. \"Dinah'll miss me very much to-night, I should think!\" (Dinah was the cat.) \"I hope they'll remember her saucer of milk at tea-time. Dinah, my dear, I wish you were down here with me! There are no mice in the air, I'm afraid, but you might catch a bat, and that's very like a mouse, you know. But do cats eat bats, I wonder?\" And here Alice began to get rather sleepy, and went on saying to herself, in a dreamy sort of way, \"Do cats eat bats? Do cats eat bats?\" and sometimes, \"Do bats eat cats?\" for, you see, as she couldn't answer either question, it didn't much matter which way she put it. She felt that she was dozing off, and had just begun to dream that she was walking hand in hand with Dinah, and saying to her very earnestly, \"Now, Dinah, tell me the truth: did you ever eat a bat?\" when suddenly, thump! thump! down she came upon a heap of sticks and dry leaves, and the fall was over.",
-                  "marker": {
-                    "id": 50001.1110
-                  }
-                },
-                {
                   "id": 10001.1111,
                   "type": "paragraph",
-                  "content": "Alice was not a bit hurt, and she jumped up on to her feet in a moment: she looked up, but it was all dark overhead; before her was another long passage, and the White Rabbit was still in sight, hurrying down it. There was not a moment to be lost: away went Alice like the wind, and was just in time to hear it say, as it turned a corner, \"Oh my ears and whiskers, how late it's getting!\" She was close behind it when she turned the corner, but the Rabbit was no longer to be seen: she found herself in a long, low hall, which was lit up by a row of lamps hanging from the roof.",
+                  "content": "Down, down, down. There was nothing else to do, so Alice soon began talking again. \"Dinah'll miss me very much to-night, I should think!\" (Dinah was the cat.) \"I hope they'll remember her saucer of milk at tea-time. Dinah, my dear, I wish you were down here with me! There are no mice in the air, I'm afraid, but you might catch a bat, and that's very like a mouse, you know. But do cats eat bats, I wonder?\" And here Alice began to get rather sleepy, and went on saying to herself, in a dreamy sort of way, \"Do cats eat bats? Do cats eat bats?\" and sometimes, \"Do bats eat cats?\" for, you see, as she couldn't answer either question, it didn't much matter which way she put it. She felt that she was dozing off, and had just begun to dream that she was walking hand in hand with Dinah, and saying to her very earnestly, \"Now, Dinah, tell me the truth: did you ever eat a bat?\" when suddenly, thump! thump! down she came upon a heap of sticks and dry leaves, and the fall was over.",
                   "marker": {
                     "id": 50001.1111
                   }
@@ -1023,13 +1020,21 @@
                 {
                   "id": 10001.1112,
                   "type": "paragraph",
-                  "content": "There were doors all round the hall, but they were all locked; and when Alice had been all the way down one side and up the other, trying every door, she walked sadly down the middle, wondering how she was ever to get out again.",
+                  "content": "Alice was not a bit hurt, and she jumped up on to her feet in a moment: she looked up, but it was all dark overhead; before her was another long passage, and the White Rabbit was still in sight, hurrying down it. There was not a moment to be lost: away went Alice like the wind, and was just in time to hear it say, as it turned a corner, \"Oh my ears and whiskers, how late it's getting!\" She was close behind it when she turned the corner, but the Rabbit was no longer to be seen: she found herself in a long, low hall, which was lit up by a row of lamps hanging from the roof.",
                   "marker": {
                     "id": 50001.1112
                   }
                 },
                 {
                   "id": 10001.1113,
+                  "type": "paragraph",
+                  "content": "There were doors all round the hall, but they were all locked; and when Alice had been all the way down one side and up the other, trying every door, she walked sadly down the middle, wondering how she was ever to get out again.",
+                  "marker": {
+                    "id": 50001.1113
+                  }
+                },
+                {
+                  "id": 10001.1114,
                   "type": "illustration",
                   "content": "http://www.gutenberg.org/files/28885/28885-h/images/f0002-image.jpg",
                   "alt": "Alice",
@@ -1038,17 +1043,9 @@
                   "position": "right"
                 },
                 {
-                  "id": 10001.1114,
-                  "type": "paragraph",
-                  "content": "Suddenly she came upon a little three-legged table, all made of solid glass; there was nothing on it but a tiny golden key, and Alice's first idea was that this might belong to one of the doors of the hall; but, alas! either the locks were too large, or the key was too small, but at any rate it would not open any of them. However, on the second time round, she came upon a low curtain she had not noticed before, and behind it was a little door about fifteen inches high: she tried the little golden key in the lock, and to her great delight it fitted!",
-                  "marker": {
-                    "id": 50001.1114
-                  }
-                },
-                {
                   "id": 10001.1115,
                   "type": "paragraph",
-                  "content": "Alice opened the door and found that it led into a small passage, not much larger than a rat-hole: she knelt down and looked along the passage into the loveliest garden you ever saw. How she longed to get out of that dark hall, and wander about among those beds of bright flowers and those cool fountains, but she could not even get her head through the doorway; \"Mollie even if my head would go through,\" thought poor Alice, \"it would be of very little use without my shoulders. Oh, how I wish I could shut up like a telescope! I think I could, if I only knew how to begin.\" For, you see, so many out-of-the-way things had happened lately, that Alice had begun to think that very few things indeed were really impossible.",
+                  "content": "Suddenly she came upon a little three-legged table, all made of solid glass; there was nothing on it but a tiny golden key, and Alice's first idea was that this might belong to one of the doors of the hall; but, alas! either the locks were too large, or the key was too small, but at any rate it would not open any of them. However, on the second time round, she came upon a low curtain she had not noticed before, and behind it was a little door about fifteen inches high: she tried the little golden key in the lock, and to her great delight it fitted!",
                   "marker": {
                     "id": 50001.1115
                   }
@@ -1056,7 +1053,7 @@
                 {
                   "id": 10001.1116,
                   "type": "paragraph",
-                  "content": "There seemed to be no use in waiting by the little door, so she went back to the table, half hoping she might find another key on it, or at any rate a book of rules for shutting people up like telescopes: this time she found a little bottle on it (\"which certainly was not here before,\" said Alice,) and tied round the neck of the bottle was a paper label, with the words \"DRINK ME\" beautifully printed on it in large letters.",
+                  "content": "Alice opened the door and found that it led into a small passage, not much larger than a rat-hole: she knelt down and looked along the passage into the loveliest garden you ever saw. How she longed to get out of that dark hall, and wander about among those beds of bright flowers and those cool fountains, but she could not even get her head through the doorway; \"Mollie even if my head would go through,\" thought poor Alice, \"it would be of very little use without my shoulders. Oh, how I wish I could shut up like a telescope! I think I could, if I only knew how to begin.\" For, you see, so many out-of-the-way things had happened lately, that Alice had begun to think that very few things indeed were really impossible.",
                   "marker": {
                     "id": 50001.1116
                   }
@@ -1064,7 +1061,7 @@
                 {
                   "id": 10001.1117,
                   "type": "paragraph",
-                  "content": "It was all very well to say \"Drink me,\" but the wise little Alice was not going to do that in a hurry. \"No, I'll look first,\" she said, \"and see whether it's marked 'poison' or not;\" for she had read several nice little stories about children who had got burnt, and eaten up by wild beasts, and other unpleasant things, all because they would not remember the simple rules their friends had taught them: such as, that a red-hot poker will burn you if you hold it too long; and that, if you cut your finger very deeply with a knife, it usually bleeds; and she had never forgotten that, if you drink much from a bottle marked \"poison,\" it is almost certain to disagree with you, sooner or later.",
+                  "content": "There seemed to be no use in waiting by the little door, so she went back to the table, half hoping she might find another key on it, or at any rate a book of rules for shutting people up like telescopes: this time she found a little bottle on it (\"which certainly was not here before,\" said Alice,) and tied round the neck of the bottle was a paper label, with the words \"DRINK ME\" beautifully printed on it in large letters.",
                   "marker": {
                     "id": 50001.1117
                   }
@@ -1072,7 +1069,7 @@
                 {
                   "id": 10001.1118,
                   "type": "paragraph",
-                  "content": "However, this bottle was not marked \"poison,\" so Alice ventured to taste it, and finding it very nice (it had, in fact, a sort of mixed flavour of cherry-tart, custard, pineapple, roast turkey, coffee, and hot buttered toast,) she very soon finished it off.",
+                  "content": "It was all very well to say \"Drink me,\" but the wise little Alice was not going to do that in a hurry. \"No, I'll look first,\" she said, \"and see whether it's marked 'poison' or not;\" for she had read several nice little stories about children who had got burnt, and eaten up by wild beasts, and other unpleasant things, all because they would not remember the simple rules their friends had taught them: such as, that a red-hot poker will burn you if you hold it too long; and that, if you cut your finger very deeply with a knife, it usually bleeds; and she had never forgotten that, if you drink much from a bottle marked \"poison,\" it is almost certain to disagree with you, sooner or later.",
                   "marker": {
                     "id": 50001.1118
                   }
@@ -1080,23 +1077,15 @@
                 {
                   "id": 10001.1119,
                   "type": "paragraph",
-                  "content": "\"What a curious feeling!\" said Alice. \"I must be shutting up like a telescope.\"",
+                  "content": "However, this bottle was not marked \"poison,\" so Alice ventured to taste it, and finding it very nice (it had, in fact, a sort of mixed flavour of cherry-tart, custard, pineapple, roast turkey, coffee, and hot buttered toast,) she very soon finished it off.",
                   "marker": {
                     "id": 50001.1119
                   }
                 },
                 {
-                  "id": 10001.1120,
-                  "type": "paragraph",
-                  "content": "And so it was indeed: she was now only ten inches high, and her face brightened up at the thought that she was now the right size for going through that little door into that lovely garden. First, however, she waited for a few minutes to see if she was going to shrink any further: she felt a little nervous about this: \"for it might end, you know,\" said Alice to herself, \"in my going out altogether, like a candle. I wonder what I should be like then?\" And she tried to fancy what the flame of a candle looks like after the candle is blown out, for she could not remember ever having seen such a thing.",
-                  "marker": {
-                    "id": 50001.1120
-                  }
-                },
-                {
                   "id": 10001.1121,
                   "type": "paragraph",
-                  "content": "After a while, finding that nothing more happened, she decided on going into the garden at once; but, alas for poor Alice! when she got to the door, she found she had forgotten the little golden key, and when she went back to the table for it, she found she could not possibly reach it: she could see it quite plainly through the glass, and she tried her best to climb up one of the legs of the table, but it was too slippery; and when she had tired herself out with trying, the poor little thing sat down and cried.",
+                  "content": "\"What a curious feeling!\" said Alice. \"I must be shutting up like a telescope.\"",
                   "marker": {
                     "id": 50001.1121
                   }
@@ -1104,7 +1093,7 @@
                 {
                   "id": 10001.1122,
                   "type": "paragraph",
-                  "content": "\"Come, there's no use in crying like that!\" said Alice to herself, rather sharply. \"I advise you to leave off this minute!\" She generally gave herself very good advice (though she very seldom followed it), and sometimes she scolded herself so severely as to bring tears into her eyes; and once she remembered trying to box her own ears for having cheated herself in a game of croquet she was playing against herself, for this curious child was very fond of pretending to be two people. \"But it's no use now,\" thought poor Alice, \"to pretend to be two people! Why there's hardly enough of me left to make one respectable person!\"",
+                  "content": "And so it was indeed: she was now only ten inches high, and her face brightened up at the thought that she was now the right size for going through that little door into that lovely garden. First, however, she waited for a few minutes to see if she was going to shrink any further: she felt a little nervous about this: \"for it might end, you know,\" said Alice to herself, \"in my going out altogether, like a candle. I wonder what I should be like then?\" And she tried to fancy what the flame of a candle looks like after the candle is blown out, for she could not remember ever having seen such a thing.",
                   "marker": {
                     "id": 50001.1122
                   }
@@ -1112,7 +1101,7 @@
                 {
                   "id": 10001.1123,
                   "type": "paragraph",
-                  "content": "Soon her eye fell on a little glass box that was lying under the table: she opened it, and found in it a very small cake, on which the words \"EAT ME\" were beautifully marked in currants. \"Well, I'll eat it,\" said Alice, \"and if it makes me grow larger, I can reach the key; and if it makes me grow smaller, I can creep under the door; so either way I'll get into the garden, and I don't care which happens!\"",
+                  "content": "After a while, finding that nothing more happened, she decided on going into the garden at once; but, alas for poor Alice! when she got to the door, she found she had forgotten the little golden key, and when she went back to the table for it, she found she could not possibly reach it: she could see it quite plainly through the glass, and she tried her best to climb up one of the legs of the table, but it was too slippery; and when she had tired herself out with trying, the poor little thing sat down and cried.",
                   "marker": {
                     "id": 50001.1123
                   }
@@ -1120,7 +1109,7 @@
                 {
                   "id": 10001.1124,
                   "type": "paragraph",
-                  "content": "She ate a little bit, and said anxiously to herself, \"Which way? Which way?\" holding her hand on the top of her head to feel which way it was growing, and she was quite surprised to find that she remained the same size; to be sure, this is what generally happens when one eats cake, but Alice had got so much into the way of expecting nothing but out-of-the-way things to happen, that it seemed quite dull and stupid for life to go on in the common way.",
+                  "content": "\"Come, there's no use in crying like that!\" said Alice to herself, rather sharply. \"I advise you to leave off this minute!\" She generally gave herself very good advice (though she very seldom followed it), and sometimes she scolded herself so severely as to bring tears into her eyes; and once she remembered trying to box her own ears for having cheated herself in a game of croquet she was playing against herself, for this curious child was very fond of pretending to be two people. \"But it's no use now,\" thought poor Alice, \"to pretend to be two people! Why there's hardly enough of me left to make one respectable person!\"",
                   "marker": {
                     "id": 50001.1124
                   }
@@ -1128,9 +1117,25 @@
                 {
                   "id": 10001.1125,
                   "type": "paragraph",
-                  "content": "So she set to work, and very soon finished off the cake.",
+                  "content": "Soon her eye fell on a little glass box that was lying under the table: she opened it, and found in it a very small cake, on which the words \"EAT ME\" were beautifully marked in currants. \"Well, I'll eat it,\" said Alice, \"and if it makes me grow larger, I can reach the key; and if it makes me grow smaller, I can creep under the door; so either way I'll get into the garden, and I don't care which happens!\"",
                   "marker": {
                     "id": 50001.1125
+                  }
+                },
+                {
+                  "id": 10001.1126,
+                  "type": "paragraph",
+                  "content": "She ate a little bit, and said anxiously to herself, \"Which way? Which way?\" holding her hand on the top of her head to feel which way it was growing, and she was quite surprised to find that she remained the same size; to be sure, this is what generally happens when one eats cake, but Alice had got so much into the way of expecting nothing but out-of-the-way things to happen, that it seemed quite dull and stupid for life to go on in the common way.",
+                  "marker": {
+                    "id": 50001.1126
+                  }
+                },
+                {
+                  "id": 10001.1127,
+                  "type": "paragraph",
+                  "content": "So she set to work, and very soon finished off the cake.",
+                  "marker": {
+                    "id": 50001.1127
                   }
                 }
               ]
@@ -1238,34 +1243,9 @@
                   }
                 },
                 {
-                  "id": 10001.1210,
+                  "id": 10001.1211,
                   "type": "paragraph",
                   "content": "\"I'm sure I'm not Ada,\" she said, \"for her hair goes in such long ringlets, and mine doesn't go in ringlets at all; and I'm sure I can't be Mabel, for I know all sorts of things, and she, oh! she knows such a very little! Besides, she's she, and I'm I, and—oh dear, how puzzling it all is! I'll try if I know all the things I used to know. Let me see: four times five is twelve, and four times six is thirteen, and four times seven is—oh dear! I shall never get to twenty at that rate! However, the Multiplication Table doesn't signify: let's try Geography. London is the capital of Paris, and Paris is the capital of Rome, and Rome—no, that's all wrong, I'm certain! I must have been changed for Mabel! I'll try and say 'How doth the little——'\" and she crossed her hands on her lap as if she were saying lessons, and began to repeat it, but her voice sounded hoarse and strange, and the words did not come the same as they used to do:—",
-                  "marker": {
-                    "id": 50001.1210
-                  }
-                },
-                {
-                  "id": 10001.1211,
-                  "type": "rhyme",
-                  "content": [
-                    {
-                      "id": 10001.12111,
-                      "line": "\"How doth the little crocodile"
-                    },
-                    {
-                      "id": 10001.12112,
-                      "line": "Improve his shining tail,"
-                    },
-                    {
-                      "id": 10001.12113,
-                      "line": "And pour the waters of the Nile"
-                    },
-                    {
-                      "id": 10001.12114,
-                      "line": "On every golden scale!"
-                    }
-                  ],
                   "marker": {
                     "id": 50001.1211
                   }
@@ -1276,19 +1256,19 @@
                   "content": [
                     {
                       "id": 10001.12121,
-                      "line": "\"How cheerfully he seems to grin,"
+                      "line": "\"How doth the little crocodile"
                     },
                     {
                       "id": 10001.12122,
-                      "line": "How neatly spreads his claws,"
+                      "line": "Improve his shining tail,"
                     },
                     {
                       "id": 10001.12123,
-                      "line": "And welcomes little fishes in,"
+                      "line": "And pour the waters of the Nile"
                     },
                     {
                       "id": 10001.12124,
-                      "line": "With gently smiling jaws!\""
+                      "line": "On every golden scale!"
                     }
                   ],
                   "marker": {
@@ -1297,8 +1277,25 @@
                 },
                 {
                   "id": 10001.1213,
-                  "type": "paragraph",
-                  "content": "\"I'm sure those are not the right words,\" said poor Alice, and her eyes filled with tears again as she went on. \"I must be Mabel, after all, and I shall have to go and live in that poky little house, and have next to no toys to play with, and oh! ever so many lessons to learn! No, I've made up my mind about it; if I'm Mabel, I'll stay down here! It'll be no use their putting their heads down and saying, 'Come up again, dear!' I shall only look up and say, 'Who am I then? Tell me that first, and then, if I like being that person, I'll come up: if not, I'll stay down here till I'm somebody else'—but, oh dear!\" cried Alice with a sudden burst of tears, \"I do wish they would put their heads down! I am so very tired of being all alone here!\"",
+                  "type": "rhyme",
+                  "content": [
+                    {
+                      "id": 10001.12131,
+                      "line": "\"How cheerfully he seems to grin,"
+                    },
+                    {
+                      "id": 10001.12132,
+                      "line": "How neatly spreads his claws,"
+                    },
+                    {
+                      "id": 10001.12133,
+                      "line": "And welcomes little fishes in,"
+                    },
+                    {
+                      "id": 10001.12134,
+                      "line": "With gently smiling jaws!\""
+                    }
+                  ],
                   "marker": {
                     "id": 50001.1213
                   }
@@ -1306,7 +1303,7 @@
                 {
                   "id": 10001.1214,
                   "type": "paragraph",
-                  "content": "As she said this she looked down at her hands, and was surprised to see that she had put on one of the Rabbit's little white kid gloves while she was talking. \"How can I have done that?\" she thought. \"I must be growing small again.\" She got up and went to the table to measure herself by it, and found that, as nearly as she could guess, she was now about two feet high, and was going on shrinking rapidly: she soon found out that the cause of this was the fan she was holding, and she dropped it hastily, just in time to avoid shrinking away altogether.",
+                  "content": "\"I'm sure those are not the right words,\" said poor Alice, and her eyes filled with tears again as she went on. \"I must be Mabel, after all, and I shall have to go and live in that poky little house, and have next to no toys to play with, and oh! ever so many lessons to learn! No, I've made up my mind about it; if I'm Mabel, I'll stay down here! It'll be no use their putting their heads down and saying, 'Come up again, dear!' I shall only look up and say, 'Who am I then? Tell me that first, and then, if I like being that person, I'll come up: if not, I'll stay down here till I'm somebody else'—but, oh dear!\" cried Alice with a sudden burst of tears, \"I do wish they would put their heads down! I am so very tired of being all alone here!\"",
                   "marker": {
                     "id": 50001.1214
                   }
@@ -1314,7 +1311,7 @@
                 {
                   "id": 10001.1215,
                   "type": "paragraph",
-                  "content": "\"That was a narrow escape!\" said Alice, a good deal frightened at the sudden change, but very glad to find herself still in existence; \"and now for the garden!\" and she ran with all speed back to the little door: but alas! the little door was shut again, and the little golden key was lying on the glass table as before, \"and things are worse than ever,\" thought the poor child, \"for I never was so small as this before, never! And I declare it's too bad, that it is!\"",
+                  "content": "As she said this she looked down at her hands, and was surprised to see that she had put on one of the Rabbit's little white kid gloves while she was talking. \"How can I have done that?\" she thought. \"I must be growing small again.\" She got up and went to the table to measure herself by it, and found that, as nearly as she could guess, she was now about two feet high, and was going on shrinking rapidly: she soon found out that the cause of this was the fan she was holding, and she dropped it hastily, just in time to avoid shrinking away altogether.",
                   "marker": {
                     "id": 50001.1215
                   }
@@ -1322,7 +1319,7 @@
                 {
                   "id": 10001.1216,
                   "type": "paragraph",
-                  "content": "As she said these words her foot slipped, and in another moment, splash! she was up to her chin in salt water. Her first idea was that she had somehow fallen into the sea, \"and in that case I can go back by railway,\" she said to herself. (Alice had been to the seaside once in her life, and had come to the general conclusion, that wherever you go to on the English coast you find a number of bathing machines in the sea, some children digging in the sand with wooden spades, then a row of lodging houses, and behind them a railway station.) However, she soon made out that she was in the pool of tears which she had wept when she was nine feet high.",
+                  "content": "\"That was a narrow escape!\" said Alice, a good deal frightened at the sudden change, but very glad to find herself still in existence; \"and now for the garden!\" and she ran with all speed back to the little door: but alas! the little door was shut again, and the little golden key was lying on the glass table as before, \"and things are worse than ever,\" thought the poor child, \"for I never was so small as this before, never! And I declare it's too bad, that it is!\"",
                   "marker": {
                     "id": 50001.1216
                   }
@@ -1330,7 +1327,7 @@
                 {
                   "id": 10001.1217,
                   "type": "paragraph",
-                  "content": "\"I wish I hadn't cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer to-day.\"",
+                  "content": "As she said these words her foot slipped, and in another moment, splash! she was up to her chin in salt water. Her first idea was that she had somehow fallen into the sea, \"and in that case I can go back by railway,\" she said to herself. (Alice had been to the seaside once in her life, and had come to the general conclusion, that wherever you go to on the English coast you find a number of bathing machines in the sea, some children digging in the sand with wooden spades, then a row of lodging houses, and behind them a railway station.) However, she soon made out that she was in the pool of tears which she had wept when she was nine feet high.",
                   "marker": {
                     "id": 50001.1217
                   }
@@ -1338,7 +1335,7 @@
                 {
                   "id": 10001.1218,
                   "type": "paragraph",
-                  "content": "Just then she heard something splashing about in the pool a little way off, and she swam nearer to make out what it was: at first she thought it must be a walrus or hippopotamus, but then she remembered how small she was now, and she soon made out that it was only a mouse that had slipped in like herself.",
+                  "content": "\"I wish I hadn't cried so much!\" said Alice, as she swam about, trying to find her way out. \"I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer to-day.\"",
                   "marker": {
                     "id": 50001.1218
                   }
@@ -1346,13 +1343,21 @@
                 {
                   "id": 10001.1219,
                   "type": "paragraph",
-                  "content": "\"Would it be of any use now,\" thought Alice, \"to speak to this mouse? Everything is so out-of-the-way down here, that I should think very likely it can talk: at any rate, there's no harm in trying.\" So she began: \"O Mouse, do you know the way out of this pool? I am very tired of swimming about here, O Mouse!\" (Alice thought this must be the right way of speaking to a mouse; she had never done such a thing before, but she remembered having seen in her brother's Latin Grammar, \"A mouse—of a mouse—to a mouse—a mouse—O mouse!\") The Mouse looked at her rather inquisitively, and seemed to her to wink with one of its little eyes, but it said nothing.",
+                  "content": "Just then she heard something splashing about in the pool a little way off, and she swam nearer to make out what it was: at first she thought it must be a walrus or hippopotamus, but then she remembered how small she was now, and she soon made out that it was only a mouse that had slipped in like herself.",
                   "marker": {
                     "id": 50001.1219
                   }
                 },
                 {
-                  "id": 10001.1220,
+                  "id": 10001.1221,
+                  "type": "paragraph",
+                  "content": "\"Would it be of any use now,\" thought Alice, \"to speak to this mouse? Everything is so out-of-the-way down here, that I should think very likely it can talk: at any rate, there's no harm in trying.\" So she began: \"O Mouse, do you know the way out of this pool? I am very tired of swimming about here, O Mouse!\" (Alice thought this must be the right way of speaking to a mouse; she had never done such a thing before, but she remembered having seen in her brother's Latin Grammar, \"A mouse—of a mouse—to a mouse—a mouse—O mouse!\") The Mouse looked at her rather inquisitively, and seemed to her to wink with one of its little eyes, but it said nothing.",
+                  "marker": {
+                    "id": 50001.1221
+                  }
+                },
+                {
+                  "id": 10001.1222,
                   "type": "illustration",
                   "content": "http://www.gutenberg.org/files/28885/28885-h/images/p0022-insert2.jpg",
                   "alt": "Alice with a mouse and other animals",
@@ -1361,25 +1366,9 @@
                   "position": "left"
                 },
                 {
-                  "id": 10001.1221,
-                  "type": "paragraph",
-                  "content": "\"Perhaps it doesn't understand English,\" thought Alice; \"I daresay it's a French mouse, come over with William the Conqueror.\" (For, with all her knowledge of history, Alice had no very clear notion how long ago anything had happened.) So she began again: \"Où est ma chatte?\" which was the first sentence in her French lesson-book. The Mouse gave a sudden leap out of the water, and seemed to quiver all over with fright. \"Oh, I beg your pardon!\" cried Alice hastily, afraid that she had hurt the poor animal's feelings. \"I quite forgot you didn't like cats.\"",
-                  "marker": {
-                    "id": 50001.1221
-                  }
-                },
-                {
-                  "id": 10001.1222,
-                  "type": "paragraph",
-                  "content": "\"Not like cats!\" cried the Mouse, in a shrill, passionate voice. \"Would you like cats if you were me?\"",
-                  "marker": {
-                    "id": 50001.1222
-                  }
-                },
-                {
                   "id": 10001.1223,
                   "type": "paragraph",
-                  "content": "\"Well, perhaps not,\" said Alice in a soothing tone: \"don't be angry about it. And yet I wish I could show you our cat Dinah: I think you'd take a fancy to cats if you could only see her. She is such a dear quiet thing,\" Alice went on, half to herself, as she swam lazily about in the pool, \"and she sits purring so nicely by the fire, licking her paws and washing her face—and she is such a nice soft thing to nurse—and she's such a capital one for catching mice——oh, I beg your pardon!\" cried Alice again, for this time the Mouse was bristling all over, and she felt certain it must be really offended. \"We won't talk about her any more if you'd rather not.\"",
+                  "content": "\"Perhaps it doesn't understand English,\" thought Alice; \"I daresay it's a French mouse, come over with William the Conqueror.\" (For, with all her knowledge of history, Alice had no very clear notion how long ago anything had happened.) So she began again: \"Où est ma chatte?\" which was the first sentence in her French lesson-book. The Mouse gave a sudden leap out of the water, and seemed to quiver all over with fright. \"Oh, I beg your pardon!\" cried Alice hastily, afraid that she had hurt the poor animal's feelings. \"I quite forgot you didn't like cats.\"",
                   "marker": {
                     "id": 50001.1223
                   }
@@ -1387,7 +1376,7 @@
                 {
                   "id": 10001.1224,
                   "type": "paragraph",
-                  "content": "\"We, indeed!\" cried the Mouse, who was trembling down to the end of his tail. \"As if I would talk on such a subject! Our family always hated cats: nasty, low, vulgar things! Don't let me hear the name again!\"",
+                  "content": "\"Not like cats!\" cried the Mouse, in a shrill, passionate voice. \"Would you like cats if you were me?\"",
                   "marker": {
                     "id": 50001.1224
                   }
@@ -1395,15 +1384,15 @@
                 {
                   "id": 10001.1225,
                   "type": "paragraph",
-                  "content": "\"I won't indeed!\" said Alice, in a great hurry to change the subject of conversation. \"Are you—are you fond—of—of dogs?\" The Mouse did not answer, so Alice went on eagerly: \"There is such a nice little dog near our house I should like to show you! A little bright-eyed terrier, you know, with oh, such long curly brown hair! And it'll fetch[23] things when you throw them, and it'll sit up and beg for its dinner, and all sorts of things—I can't remember half of them—and it belongs to a farmer, you know, and he says it's so useful, it's worth a hundred pounds! He says it kills all the rats and—oh dear!\" cried Alice in a sorrowful tone, \"I'm afraid I've offended it again!\" For the Mouse was swimming away from her as hard as it could go, and making quite a commotion in the pool as it went.",
-                    "marker": {
-                      "id": 50001.1225
-                    }
+                  "content": "\"Well, perhaps not,\" said Alice in a soothing tone: \"don't be angry about it. And yet I wish I could show you our cat Dinah: I think you'd take a fancy to cats if you could only see her. She is such a dear quiet thing,\" Alice went on, half to herself, as she swam lazily about in the pool, \"and she sits purring so nicely by the fire, licking her paws and washing her face—and she is such a nice soft thing to nurse—and she's such a capital one for catching mice——oh, I beg your pardon!\" cried Alice again, for this time the Mouse was bristling all over, and she felt certain it must be really offended. \"We won't talk about her any more if you'd rather not.\"",
+                  "marker": {
+                    "id": 50001.1225
+                  }
                 },
                 {
                   "id": 10001.1226,
                   "type": "paragraph",
-                  "content": "So she called softly after it, \"Mouse dear! Do come back again, and we won't talk about cats or dogs either, if you don't like them!\"",
+                  "content": "\"We, indeed!\" cried the Mouse, who was trembling down to the end of his tail. \"As if I would talk on such a subject! Our family always hated cats: nasty, low, vulgar things! Don't let me hear the name again!\"",
                   "marker": {
                     "id": 50001.1226
                   }
@@ -1411,17 +1400,33 @@
                 {
                   "id": 10001.1227,
                   "type": "paragraph",
-                  "content": "When the Mouse heard this, it turned round and swam slowly back to her: its face was quite pale (with passion, Alice thought), and it said in a low trembling voice, \"Let us get to the shore, and then I'll tell you my history, and you'll understand why it is I hate cats and dogs.\"",
-                  "marker": {
-                    "id": 50001.1227
-                  }
+                  "content": "\"I won't indeed!\" said Alice, in a great hurry to change the subject of conversation. \"Are you—are you fond—of—of dogs?\" The Mouse did not answer, so Alice went on eagerly: \"There is such a nice little dog near our house I should like to show you! A little bright-eyed terrier, you know, with oh, such long curly brown hair! And it'll fetch[23] things when you throw them, and it'll sit up and beg for its dinner, and all sorts of things—I can't remember half of them—and it belongs to a farmer, you know, and he says it's so useful, it's worth a hundred pounds! He says it kills all the rats and—oh dear!\" cried Alice in a sorrowful tone, \"I'm afraid I've offended it again!\" For the Mouse was swimming away from her as hard as it could go, and making quite a commotion in the pool as it went.",
+                    "marker": {
+                      "id": 50001.1227
+                    }
                 },
                 {
                   "id": 10001.1228,
                   "type": "paragraph",
-                  "content": "It was high time to go, for the pool was getting quite crowded with the birds and animals that had fallen into it: there were a Duck and a Dodo, a Lory and an Eaglet, and several other curious creatures. Alice led the way, and the whole party swam to the shore.",
+                  "content": "So she called softly after it, \"Mouse dear! Do come back again, and we won't talk about cats or dogs either, if you don't like them!\"",
                   "marker": {
                     "id": 50001.1228
+                  }
+                },
+                {
+                  "id": 10001.1229,
+                  "type": "paragraph",
+                  "content": "When the Mouse heard this, it turned round and swam slowly back to her: its face was quite pale (with passion, Alice thought), and it said in a low trembling voice, \"Let us get to the shore, and then I'll tell you my history, and you'll understand why it is I hate cats and dogs.\"",
+                  "marker": {
+                    "id": 50001.1229
+                  }
+                },
+                {
+                  "id": 10001.1231,
+                  "type": "paragraph",
+                  "content": "It was high time to go, for the pool was getting quite crowded with the birds and animals that had fallen into it: there were a Duck and a Dodo, a Lory and an Eaglet, and several other curious creatures. Alice led the way, and the whole party swam to the shore.",
+                  "marker": {
+                    "id": 50001.1231
                   }
                 }
               ]
@@ -1467,7 +1472,7 @@
               },
               "initial": {
                 "illustration": "http://www.gutenberg.org/files/28885/28885-h/images/i.png",
-            "letter": "I",
+                "letter": "I",
                 "width": 71
               },
               "subsections": [
@@ -1661,41 +1666,9 @@
               ]
             },
             {
-              "id": 10001.110,
-              "type": "chapter",
-              "title": "The Lobster Quadrille",
-              "track": {
-                "id": 50001.110
-              },
-              "initial": {
-                "illustration": "http://www.gutenberg.org/files/28885/28885-h/images/t.png",
-                "letter": "T",
-                "width": 71
-              },
-              "subsections": [
-                {
-                  "id": 10001.1101,
-                  "type": "paragraph",
-                  "content": "HE Mock Turtle sighed deeply, and drew the back of one flapper across his eyes. He looked at Alice, and tried to speak, but, for a minute or two, sobs choked his voice. \"Same as if he had a bone in his throat,\" said the Gryphon: and it set to work shaking him and punching him in the back. At last the Mock Turtle recovered his voice, and, with tears running down his cheeks, went on again:",
-                  "marker": {
-                    "id": 50001.1101
-                  }
-                },
-                {
-                  "id": 10001.1102,
-                  "type": "illustration",
-                  "content": "http://www.gutenberg.org/files/28885/28885-h/images/p0132-insert2.jpg",
-                  "alt": "Alice talking with a turtle and a gryphon",
-                  "caption": "The Mock Turtle drew a long breath and said, \"That's very curious\"",
-                  "width": 373,
-                  "position": "left"
-                }
-              ]
-            },
-            {
               "id": 10001.111,
               "type": "chapter",
-              "title": "Who Stole the Tarts?",
+              "title": "The Lobster Quadrille",
               "track": {
                 "id": 50001.111
               },
@@ -1708,13 +1681,45 @@
                 {
                   "id": 10001.1111,
                   "type": "paragraph",
-                  "content": "HE King and Queen of Hearts were seated on their throne when they arrived, with a great crowd assembled about them—all sorts of little birds and beasts, as well as the whole pack of cards: the Knave was standing before them, in chains, with a soldier on each side to guard him; and near the King was the White Rabbit, with a trumpet in one hand, and a scroll of parchment in the other. In the very middle of the court was a table, with a large dish of tarts upon it: they looked so good, that it made Alice quite hungry to look at them—\"I wish they'd get the trial done,\" she thought, \"and hand round the refreshments!\" But there seemed to be no chance of this, so she began looking about her, to pass away the time.",
+                  "content": "HE Mock Turtle sighed deeply, and drew the back of one flapper across his eyes. He looked at Alice, and tried to speak, but, for a minute or two, sobs choked his voice. \"Same as if he had a bone in his throat,\" said the Gryphon: and it set to work shaking him and punching him in the back. At last the Mock Turtle recovered his voice, and, with tears running down his cheeks, went on again:",
                   "marker": {
-                    "id": 50001.1111
+                    "id": 50001.1101
                   }
                 },
                 {
                   "id": 10001.1112,
+                  "type": "illustration",
+                  "content": "http://www.gutenberg.org/files/28885/28885-h/images/p0132-insert2.jpg",
+                  "alt": "Alice talking with a turtle and a gryphon",
+                  "caption": "The Mock Turtle drew a long breath and said, \"That's very curious\"",
+                  "width": 373,
+                  "position": "left"
+                }
+              ]
+            },
+            {
+              "id": 10001.112,
+              "type": "chapter",
+              "title": "Who Stole the Tarts?",
+              "track": {
+                "id": 50001.112
+              },
+              "initial": {
+                "illustration": "http://www.gutenberg.org/files/28885/28885-h/images/t.png",
+                "letter": "T",
+                "width": 71
+              },
+              "subsections": [
+                {
+                  "id": 10001.1121,
+                  "type": "paragraph",
+                  "content": "HE King and Queen of Hearts were seated on their throne when they arrived, with a great crowd assembled about them—all sorts of little birds and beasts, as well as the whole pack of cards: the Knave was standing before them, in chains, with a soldier on each side to guard him; and near the King was the White Rabbit, with a trumpet in one hand, and a scroll of parchment in the other. In the very middle of the court was a table, with a large dish of tarts upon it: they looked so good, that it made Alice quite hungry to look at them—\"I wish they'd get the trial done,\" she thought, \"and hand round the refreshments!\" But there seemed to be no chance of this, so she began looking about her, to pass away the time.",
+                  "marker": {
+                    "id": 50001.1121
+                  }
+                },
+                {
+                  "id": 10001.1122,
                   "type": "illustration",
                   "content": "http://www.gutenberg.org/files/28885/28885-h/images/p0140-insert2.jpg",
                   "alt": "The Queen sitting at her court surrounded by her subjects",
@@ -1725,11 +1730,11 @@
               ]
             },
             {
-              "id": 10001.112,
+              "id": 10001.113,
               "type": "chapter",
               "title": "Alice's Evidence",
               "track": {
-                "id": 50001.112
+                "id": 50001.113
               },
               "initial": {
                 "illustration": "http://www.gutenberg.org/files/28885/28885-h/images/h-quote.png",
@@ -1738,15 +1743,15 @@
               },
               "subsections": [
                 {
-                  "id": 10001.1121,
+                  "id": 10001.1131,
                   "type": "paragraph",
                   "content": "ERE!\" cried Alice, quite forgetting in the flurry of the moment how large she had grown in the last few minutes, and she jumped up in such a hurry that she tipped over the jury-box with the edge of her skirt, upsetting all the jurymen on to the heads of the crowd below, and there they lay sprawling about, reminding her very much of a globe of gold-fish she had accidentally upset the week before.",
                   "marker": {
-                    "id": 50001.1121
+                    "id": 50001.1131
                   }
                 },
                 {
-                  "id": 10001.1122,
+                  "id": 10001.1132,
                   "type": "illustration",
                   "content": "http://www.gutenberg.org/files/28885/28885-h/images/p0158-insert2.jpg",
                   "alt": "Alice with playing cards flying about her",
@@ -1771,17 +1776,48 @@
         }
       ],
       "illustrators": [],
-      "cover": "https://via.placeholder.com/750",
+      "cover": "https://via.placeholder.com/660",
+      "audiobook": {
+        "id": 50002
+      },
       "parts": [
         {
           "id": 10002.1,
           "type": "part",
-          "title": "Book 1 - The Musician",
+          "title": "Book One",
+          "subtitle": "The Musician",
+          "prologue": [
+            {
+              "id": 10002.01,
+              "type": "rhyme",
+              "content": [
+                {
+                  "id": 10002.011,
+                  "line": "Due Fontane"
+                },
+                {
+                  "id": 10002.012,
+                  "line": "Chi di diverso effeto hanno liquore!"
+                },
+                {
+                  "id": 10002.013,
+                  "line": "(Two Founts"
+                },
+                {
+                  "id": 10002.014,
+                  "line": "That hold a draught of different effects.)"
+                }
+              ],
+              "marker": {
+                "id": 50002.01
+              }
+            }
+          ],
           "sections": [
             {
               "id": 10002.11,
-              "type": "",
-              "title": "",
+              "type": "chapter",
+              "title": "Chapter 1",
               "track": { 
                 "id": 50002.11
               },
@@ -1791,45 +1827,167 @@
                   "type": "rhyme",
                   "content": [
                     {
-                      "id": 10000.1111,
-                      "line": "Due Fontane"
+                      "id": 10002.1111,
+                      "line": "Vergina era"
                     },
                     {
-                      "id": 10000.1111,
-                      "line": "Chi di diverso effeto hanno liquore!" 
+                      "id": 10002.1112,
+                      "line": "D’ alta belta, ma sua belta non cura:" 
                     },
                     {
-                      "id": 10000.1111,
-                      "line": "\"Ariosto, Orland. Fur.\" Canto 1.7." 
+                      "id": 10002.1113,
+                      "line": "..." 
                     },
                     {
-                      "id": 10000.1111,
-                      "line": "(Two Founts"
+                      "id": 10002.1114,
+                      "line": "Di natura, d’ amor, de’ cieli amici"
                     },
                     {
-                      "id": 10000.1111,
-                      "line": "That hold a draught of different effects.)"
+                      "id": 10002.1115,
+                      "line": "Le negligenze sue sono artifici."
+                    },
+                    {
+                      "id": 10002.1116,
+                      "line": "“Gerusal. Lib.,” canto ii. xiv.-xviii."
                     }
                   ],
                   "marker": {"id": 50002.111 }
+                },
+                {
+                  "id": 10002.112,
+                  "type": "rhyme",
+                  "content": [
+                    {
+                      "id": 10002.1121,
+                      "line": "(She was a virgin of a glorious beauty,"
+                    },
+                    {
+                      "id": 10002.1122,
+                      "line": "of a glorious beauty, but regarded not her..." 
+                    },
+                    {
+                      "id": 10002.1123,
+                      "line": "Negligence itself is art in those favoured by Nature,"
+                    },
+                    {
+                      "id": 10002.1124,
+                      "line": "by love, and by the heavens.)"
+                    }
+                  ],
+                  "marker": {"id": 50002.112 }
+                },
+                {
+                  "id": 10002.113,
+                  "type": "paragraph",
+                  "content": "At Naples, in the latter half of the last century, a worthy artist named Gaetano Pisani lived and flourished. He was a musician of great genius, but not of popular reputation; there was in all his compositions something capricious and fantastic which did not please the taste of the Dilettanti of Naples. He was fond of unfamiliar subjects into which he introduced airs and symphonies that excited a kind of terror in those who listened. The names of his pieces will probably suggest their nature. I find, for instance, among his MSS., these titles: “The Feast of the Harpies,” “The Witches at Benevento,” “The Descent of Orpheus into Hades,” “The Evil Eye,” “The Eumenides,” and many others that evince a powerful imagination delighting in the fearful and supernatural, but often relieved by an airy and delicate fancy with passages of exquisite grace and beauty. It is true that in the selection of his subjects from ancient fable, Gaetano Pisani was much more faithful than his contemporaries to the remote origin and the early genius of Italian Opera.",
+                  "marker": {
+                    "id": 50002.113
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 10002.2,
+          "type": "part",
+          "title": "Book Two",
+          "subtitle": "Art, Love and Wonder",
+          "prologue": [
+            {
+              "id": 10002.02,
+              "type": "rhyme",
+              "content": [
+                {
+                  "id": 10002.021,
+                  "line": "Diversi aspetti in un confusi e misti"
+                },
+                {
+                  "id": 10002.022,
+                  "line": "\"Ger. Lib,\" cant. iv. 7."
+                },
+                {
+                  "id": 10002.023,
+                  "line": "Different appearances, confused and mixt in one."
+                }
+              ],
+              "marker": {
+                "id": 50002.02
+              }
+            }
+          ],
+          "sections": [
+            {
+              "id": 10002.21,
+              "type": "chapter",
+              "title": "Chapter 1",
+              "track": { 
+                "id": 50002.21
+              },
+              "subsections": [
+                {
+                  "id": 10002.211,
+                  "type": "rhyme",
+                  "content": [
+                    {
+                      "id": 10002.2111,
+                      "line": "Centauri, e Sfingi, e pallide Gorgoni."
+                    },
+                    {
+                      "id": 10002.2112,
+                      "line": "\"Ger. Lib.,\" c. iv. v." 
+                    },
+                    {
+                      "id": 10002.2113,
+                      "line": "(Centaurs and Sphinxes and pallid Gorgons.)" 
+                    }
+                  ],
+                  "marker": {"id": 50002.211 }
+                },
+                {
+                  "id": 10002.212,
+                  "type": "paragraph",
+                  "content": "One moonlit night, in the Gardens at Naples, some four or five gentleman were seated under a tree, drinking their sherbet, and listening, in the intervals of conversation, to the music which enlivened that gay and favourite resort of an indolent population. One of this little party was a young Englishman, who had been the life of the whole group, but who, for the last few moments, had sunk into a gloomy and abstracted reverie. One of his countrymen observed this sudden gloom, and, tapping him on the back, said, \"What ails you, Glyndon? Are you ill? You have grown quite pale,—you tremble. Is it a sudden chill? You had better go home: these Italian nights are often dangerous to our English constitutions.\"",
+                  "marker": {"id": 50002.212 }
                 }
               ]
             },
             {
-              "id": 10002.12,
+              "id": 10002.22,
               "type": "chapter",
-              "title": "Chapter 1",
-              "track": {
-                "id": 50002.12
-              },    
+              "title": "Chapter 2",
+              "track": { 
+                "id": 50002.22
+              },
               "subsections": [
                 {
-                  "id": 10002.121,
+                  "id": 10002.221,
+                  "type": "rhyme",
+                  "content": [
+                    {
+                      "id": 10002.2211,
+                      "line": "Prende, giovine audace e impaziente,"
+                    },
+                    {
+                      "id": 10002.2212,
+                      "line": "L’occasione offerta avidamente." 
+                    },
+                    {
+                      "id": 10002.2213,
+                      "line": "\"Ger. Lib.,\" c. vi. xxix." 
+                    },
+                    {
+                      "id": 10002.2214,
+                      "line": "(Take, youth, bold and impatient, the offered occasion eagerly.)" 
+                    }
+                  ],
+                  "marker": {"id": 50002.221 }
+                },
+                {
+                  "id": 10002.222,
                   "type": "paragraph",
-                  "content": "",
-                  "marker": {
-                    "id": 50002.121
-                  }
+                  "content": "Clarence Glyndon was a young man of fortune, not large, but easy and independent. His parents were dead, and his nearest relation was an only sister, left in England under the care of her aunt, and many years younger than himself. Early in life he had evinced considerable promise in the art of painting, and rather from enthusiasm than any pecuniary necessity for a profession, he determined to devote himself to a career in which the English artist generally commences with rapture and historical composition, to conclude with avaricious calculation and portraits of Alderman Simpkins. Glyndon was supposed by his friends to possess no inconsiderable genius; but it was of a rash and presumptuous order. He was averse from continuous and steady labour, and his ambition rather sought to gather the fruit than to plant the tree. In common with many artists in their youth, he was fond of pleasure and excitement, yielding with little forethought to whatever impressed his fancy or appealed to his passions. He had travelled through the more celebrated cities of Europe, with the avowed purpose and sincere resolution of studying the divine masterpieces of his art. But in each, pleasure had too often allured him from ambition, and living beauty distracted his worship from the senseless canvas. Brave, adventurous, vain, restless, inquisitive, he was ever involved in wild projects and pleasant dangers,—the creature of impulse and the slave of imagination.",
+                  "marker": {"id": 50002.222 }
                 }
               ]
             }
@@ -1848,12 +2006,17 @@
         }
       ],
       "illustrators": [],
-      "cover": "https://via.placeholder.com/750",
+      "cover": "https://via.placeholder.com/660",
+      "audiobook": {
+        "id": 50003
+      },
       "parts": [
         {
           "id": 10003.1,
           "type": "part",
           "title": "First Part",
+          "subtitle": "",
+          "prologue": [],
           "sections": [
             {
               "id": 10003.11,
@@ -1888,25 +2051,35 @@
         }
       ],
       "illustrators": [],
-      "cover": "https://via.placeholder.com/750",
+      "cover": "https://via.placeholder.com/660",
+      "audiobook": {
+        "id": 50004
+      },
       "parts": [
         {
           "id": 10004.1,
-          "type": "part",
-          "title": "Essay 2",
+          "type": "",
+          "title": "",
+          "subtitle": "",
+          "prologue": [],
           "sections": [
             {
               "id": 10004.12,
               "type": "chapter",
-              "title": "Self-Reliance",
+              "title": "Essay 2: Self-Reliance",
               "track": { 
                 "id": 50004.21
               },
               "subsections": [
                 {
                   "id": 10004.121,
-                  "type": "paragraph",
-                  "content": "\"Ne te quæsiveris extra.\"",
+                  "type": "rhyme",
+                  "content": [
+                    {
+                      "id": 10004.1211,
+                      "line": "\"Ne te quæsiveris extra.\""
+                    }
+                  ],
                   "marker": {
                     "id": 50004.121
                   }
@@ -1928,20 +2101,57 @@
                       "line": "Commands all light, all influence, all fate;"
                     },
                     {
-                      "id": 10000.1134,
+                      "id": 10004.1224,
                       "line": "Nothing to him falls early or too late."
                     },
                     {
-                      "id": 10000.1135,
+                      "id": 10004.1225,
                       "line": "Our acts our angels are, or good or ill,"
                     },
                     {
-                      "id": 10000.1136,
+                      "id": 10004.1226,
                       "line": "Our fatal shadows that walk by us still.\""
                     }
                   ],
                   "marker": {
-                    "id": 50004.122
+                    "id": 10004.122
+                  }
+                },
+                {
+                  "id": 10004.123,
+                  "type": "rhyme",
+                  "content": [
+                    {
+                      "id": 10004.1231,
+                      "line": "Epilogue to Beaumont and Fletcher's Honest Man's Fortune."
+                    },
+                    {
+                      "id": 10004.1232,
+                      "line": "Cast the bantling on the rocks,"
+                    },
+                    {
+                      "id": 10004.1233,
+                      "line": "Suckle him with the she-wolf's teat,"
+                    },
+                    {
+                      "id": 10004.1234,
+                      "line": "Wintered with the hawk and fox."
+                    },
+                    {
+                      "id": 10004.1235,
+                      "line": "Power and speed be hands and feet."
+                    }
+                  ],
+                  "marker": {
+                    "id": 50004.123
+                  }
+                },
+                {
+                  "id": 10004.124,
+                  "type": "paragraph",
+                  "content": "I READ the other day some verses written by an eminent painter which were original and not conventional. The soul always hears an admonition in such lines, let the subject be what it may. The sentiment they instil is of more value than any thought they may contain. To believe your own thought, to believe that what is true for you in your private heart is true for all men,—that is genius. Speak your latent conviction, and it shall be the universal sense; for the inmost in due time becomes the outmost, and our first thought is rendered back to us by the trumpets of the Last Judgment. Familiar as the voice of the mind is to each, the highest merit we ascribe to Moses, Plato and Milton is that they set at naught books and traditions, and spoke not what men, but what they thought. A man should learn to detect and watch that gleam of light which flashes across his mind from within, more than the lustre of the firmament of bards and sages. Yet he dismisses without notice his thought, because it is his. In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty. Great works of art have no more affecting lesson for us than this. They teach us to abide by our spontaneous impression with good-humored inflexibility then most when the whole cry of voices is on the other side. Else to-morrow a stranger will say with masterly good sense precisely what we have thought and felt all the time, and we shall be forced to take with shame our own opinion from another.",
+                  "marker": {
+                    "id": 50004.124
                   }
                 }
               ]
@@ -1961,12 +2171,17 @@
         }
       ],
       "illustrators": [],
-      "cover": "https://via.placeholder.com/750",
+      "cover": "https://via.placeholder.com/660",
+      "audiobook": {
+        "id": 50005
+      },
       "parts": [
         {
           "id": 10005.1,
           "type": "",
           "title": "",
+          "subtitle": "",
+          "prologue": [],
           "sections": [
             {
               "id": 10005.11,
@@ -2001,44 +2216,95 @@
         }
       ],
       "illustrators": [],
-      "cover": "https://via.placeholder.com/750",
+      "cover": "https://via.placeholder.com/660",
+      "audiobook": {
+        "id": 50006
+      },
       "parts": [
         {
           "id": 10006.1,
           "type": "part",
-          "title": "Book I",
+          "title": "Book One",
+          "subtitle": "",
+          "prologue": [
+            {
+              "id": 10006.01,
+              "type": "scene",
+              "content": "Achilles withdraws from the war, and sends his mother Thetis to ask Jove to help the Trojans—Scene between Jove and Juno on Olympus.",
+              "marker": {
+                "id": 50006.01
+              }
+            }
+          ],
           "sections": [
             {
               "id": 10006.11,
               "type": "chapter",
-              "title": "The quarrel between Achilles and Agamemnon",
+              "title": "Chapter One: The quarrel between Achilles and Agamemnon",
               "track": { 
                 "id": 50006.11
               },
               "subsections": [
                 {
                   "id": 10006.111,
-                  "type": "scene",
-                  "content": "Achilles withdraws from the war, and sends his mother Thetis to ask Jove to help the Trojans—Scene between Jove and Juno on Olympus.",
+                  "type": "paragarph",
+                  "content": "Sing, O goddess, the anger of Achilles son of Peleus, that brought countless ills upon the Achaeans. Many a brave soul did it send hurrying down to Hades, and many a hero did it yield a prey to dogs and vultures, for so were the counsels of Jove fulfilled from the day on which the son of Atreus, king of men, and great Achilles, first fell out with one another.",
                   "marker": {
                     "id": 50006.111
                   }
                 },
                 {
                   "id": 10006.112,
-                  "type": "paragarph",
-                  "content": "Sing, O goddess, the anger of Achilles son of Peleus, that brought countless ills upon the Achaeans. Many a brave soul did it send hurrying down to Hades, and many a hero did it yield a prey to dogs and vultures, for so were the counsels of Jove fulfilled from the day on which the son of Atreus, king of men, and great Achilles, first fell out with one another.",
-                  "marker": {
-                    "id": 50006.112
-                  }
-                },
-                {
-                  "id": 10006.113,
                   "type": "illustration",
                   "content": "http://www.gutenberg.org/files/6130/6130-h/images/image01.png",
                   "alt": "Homer playing the lyre",
                   "caption": "Homer invoking the muse",
                   "width": 880,
+                  "position": "center"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 10006.2,
+          "type": "part",
+          "title": "Book Two",
+          "subtitle": "",
+          "prologue": [
+            {
+              "id": 10006.02,
+              "type": "scene",
+              "content": "Jove sends a lying dream to Agamemnon, who thereon calls the chiefs in assembly, and proposes to sound the mind of his army—In the end they march to fight—Catalogue of the Achaean and Trojan forces.",
+              "marker": {
+                "id": 50006.02
+              }
+            }
+          ],
+          "sections": [
+            {
+              "id": 10006.21,
+              "type": "chapter",
+              "title": "Chapter One: The trial of the army and catalogue of forces",
+              "track": { 
+                "id": 50006.21
+              },
+              "subsections": [
+                {
+                  "id": 10006.211,
+                  "type": "paragarph",
+                  "content": "Jupiter, in pursuance of the request of Thetis, sends a deceitful vision to Agamemnon, persuading him to lead the army to battle, in order to make the Greeks sensible of their want of Achilles. The general, who is deluded with the hopes of taking Troy without his assistance, but fears the army was discouraged by his absence, and the late plague, as well as by the length of time, contrives to make trial of their disposition by a stratagem. He first communicates his design to the princes in council, that he would propose a return to the soldiers, and that they should put a stop to them if the proposal was embraced. Then he assembles the whole host, and upon moving for a return to Greece, they unanimously agree to it, and run to prepare the ships. They are detained by the management of Ulysses, who chastises the insolence of Thersites. The assembly is recalled, several speeches made on the occasion, and at length the advice of Nestor followed, which was to make a general muster of the troops, and to divide them into their several nations, before they proceeded to battle. This gives occasion to the poet to enumerate all the forces of the Greeks and Trojans, and in a large catalogue.",
+                  "marker": {
+                    "id": 50006.2111
+                  }
+                },
+                {
+                  "id": 10006.212,
+                  "type": "illustration",
+                  "content": "http://www.gutenberg.org/files/6130/6130-h/images/image10.png",
+                  "alt": "Jupiter sitting on a heavenly throne",
+                  "caption": "Jupiter sending the evil dream to Agamemnon",
+                  "width": 864,
                   "position": "center"
                 }
               ]
@@ -2085,7 +2351,7 @@
       "price": "free",
       "downloads": 4,
       "rating": 9,
-      "tumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1580640816/cover_gqorkk.jpg"
+      "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_carroll_alices_adventures_in_wonderland_coevc4.jpg"
     },
     {
       "id": 10002,
@@ -2110,7 +2376,7 @@
       "price": "free",
       "downloads": 3,
       "rating": 8,
-      "thumbnail": "https://via.placeholder.com/325"
+      "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_bulwer-lytton_zanoni_efabdd.jpg"
     },
     {
       "id": 10003,
@@ -2135,7 +2401,7 @@
       "price": "free",
       "downloads": 2,
       "rating": 8,
-      "thumbnail": "https://via.placeholder.com/325"
+      "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432131/cover_hesse_siddhartha_jmsaxa.jpg"
     },
     {
       "id": 10004,
@@ -2160,7 +2426,7 @@
       "price": "free",
       "downloads": 2,
       "rating": 9,
-      "thumbnail": "https://via.placeholder.com/325"
+      "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432131/cover_emerson_essyes_qrznjz.jpg"
     },
     {
       "id": 10005,
@@ -2185,7 +2451,7 @@
       "price": "free",
       "downloads": 3,
       "rating": 0,
-      "thumbnail": "https://via.placeholder.com/325"
+      "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_norris_mcteague_rmf2fa.jpg"
     },
     {
       "id": 10006,
@@ -2210,7 +2476,7 @@
       "price": "free",
       "downloads": 3,
       "rating": 0,
-      "thumbnail": "https://via.placeholder.com/325"
+      "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_homer_iliad_nmmqbl.jpg"
     }
   ],
   "clubs": [
@@ -2252,7 +2518,7 @@
               "name": "Lewis Carroll"
             }
           ],
-          "tumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1580640816/cover_gqorkk.jpg"
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_carroll_alices_adventures_in_wonderland_coevc4.jpg"
         }
       ]
     },
@@ -2289,7 +2555,7 @@
               "name": "Edward Bulwer Lytton"
             }
           ],
-          "tumbnail": "https://via.placeholder.com/325"
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_bulwer-lytton_zanoni_efabdd.jpg]"
         },
         {
           "id": 10005,
@@ -2300,7 +2566,7 @@
               "name": "Frank Norris"
             }
           ],
-          "tumbnail": "https://via.placeholder.com/325"
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_norris_mcteague_rmf2fa.jpg"
         },
         {
           "id": 10006,
@@ -2311,7 +2577,7 @@
               "name": "Homer"
             }
           ],
-          "tumbnail": "https://via.placeholder.com/325"
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_homer_iliad_nmmqbl.jpg"
         }
       ]
     },
@@ -2348,7 +2614,7 @@
               "name": "Herman Hesse"
             }
           ],
-          "tumbnail": "https://via.placeholder.com/325"
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432131/cover_hesse_siddhartha_jmsaxa.jpg"
         },
         {
           "id": 10004,
@@ -2359,7 +2625,7 @@
               "name": "Ralph Waldo Emerson"
             }
           ],
-          "tumbnail": "https://via.placeholder.com/325"
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432131/cover_emerson_essyes_qrznjz.jpg"
         }
       ]
     }
@@ -2379,7 +2645,7 @@
               "name": "Lewis Carroll"
             }
           ],
-          "tumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1580640816/cover_gqorkk.jpg"
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_carroll_alices_adventures_in_wonderland_coevc4.jpg"
         }
       ]
     },
@@ -2397,7 +2663,7 @@
               "name": "Lewis Carroll"
             }
           ],
-          "tumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1580640816/cover_gqorkk.jpg"
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_carroll_alices_adventures_in_wonderland_coevc4.jpg"
         },
         {
           "id": 10005,
@@ -2408,7 +2674,7 @@
               "name": "Homer"
             }
           ],
-          "tumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1580640816/cover_gqorkk.jpg"
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_homer_iliad_nmmqbl.jpg"
         }
       ]
     },
@@ -2426,7 +2692,7 @@
               "name": "Lewis Carroll"
             }
           ],
-          "tumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1580640816/cover_gqorkk.jpg"
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_carroll_alices_adventures_in_wonderland_coevc4.jpg"
         },
         {
           "id": 10002,
@@ -2437,7 +2703,7 @@
               "name": "Edward Bulwer Lytton"
             }
           ],
-          "tumbnail": "https://via.placeholder.com/325"
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_bulwer-lytton_zanoni_efabdd.jpg"
         },
         {
           "id": 10003,
@@ -2448,7 +2714,7 @@
               "name": "Herman Hesse"
             }
           ],
-          "tumbnail": "https://via.placeholder.com/325"
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432131/cover_hesse_siddhartha_jmsaxa.jpg"
         },
         {
           "id": 10005,
@@ -2459,7 +2725,7 @@
               "name": "Frank Norris"
             }
           ],
-          "tumbnail": "https://via.placeholder.com/325"
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_norris_mcteague_rmf2fa.jpg"
         }
       ]
     },
@@ -2477,7 +2743,7 @@
               "name": "Ralph Waldo Emerson"
             }
           ],
-          "tumbnail": "https://via.placeholder.com/325"
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432131/cover_emerson_essyes_qrznjz.jpg"
         }
       ]
     }
@@ -2498,7 +2764,7 @@
               "name":"Lewis Carroll"
             }
           ],
-          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1580640816/cover_gqorkk.jpg"
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_carroll_alices_adventures_in_wonderland_coevc4.jpg"
         }
       ]
     }
@@ -2520,7 +2786,7 @@
               "name": "Lewis Carroll"
             }
           ],
-          "tumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1580640816/cover_gqorkk.jpg"
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_carroll_alices_adventures_in_wonderland_coevc4.jpg"
         }
       ]
     },
@@ -2540,7 +2806,7 @@
               "name": "Edward Bulwer Lytton"
             }
           ],
-          "tumbnail": "https://via.placeholder.com/325"
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_bulwer-lytton_zanoni_efabdd.jpg"
         }
       ]
     },
@@ -2560,7 +2826,7 @@
               "name": "Hermann Hesse"
             }
           ],
-          "tumbnail": "https://via.placeholder.com/325"
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432131/cover_hesse_siddhartha_jmsaxa.jpg"
         }
       ]
     },
@@ -2580,7 +2846,7 @@
               "name": "Ralph Waldo Emerson"
             }
           ],
-          "tumbnail": "https://via.placeholder.com/325"
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432131/cover_emerson_essyes_qrznjz.jpg"
         }
       ]
     },
@@ -2600,7 +2866,7 @@
               "name": "Frank Norris"
             }
           ],
-          "tumbnail": "https://via.placeholder.com/325"
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_norris_mcteague_rmf2fa.jpg"
         }
       ]
     },
@@ -2620,7 +2886,7 @@
               "name": "Homer"
             }
           ],
-          "tumbnail": "https://via.placeholder.com/325"
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_homer_iliad_nmmqbl.jpg"
         }
       ]
     }
@@ -2660,7 +2926,7 @@
               "name": "Lewis Carroll"
             }
           ],
-          "tumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1580640816/cover_gqorkk.jpg",
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_carroll_alices_adventures_in_wonderland_coevc4.jpg",
           "price": "free",
           "shelf": "reading"
         }
@@ -2720,7 +2986,7 @@
               "name": "Lewis Carroll"
             }
           ],
-          "tumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1580640816/cover_gqorkk.jpg",
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_carroll_alices_adventures_in_wonderland_coevc4.jpg",
           "price": "free",
           "shelf": "reading"
         }
@@ -2786,7 +3052,7 @@
               "name": "Lewis Carroll"
             }
           ],
-          "tumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1580640816/cover_gqorkk.jpg",
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_carroll_alices_adventures_in_wonderland_coevc4.jpg",
           "price": "free",
           "shelf": "reading"
         },
@@ -2799,7 +3065,7 @@
               "name": "Edward Bulwer Lytton"
             }
           ],
-          "tumbnail": "https://via.placeholder.com/325",
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_bulwer-lytton_zanoni_efabdd.jpg",
           "price": "free",
           "shelf": "reading"
         },
@@ -2812,7 +3078,7 @@
               "name": "Frank Norris"
             }
           ],
-          "tumbnail": "https://via.placeholder.com/325",
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_norris_mcteague_rmf2fa.jpg",
           "price": "free",
           "shelf": "read"
         },
@@ -2825,7 +3091,7 @@
               "name": "Homer"
             }
           ],
-          "tumbnail": "https://via.placeholder.com/325",
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_homer_iliad_nmmqbl.jpg",
           "price": "free",
           "shelf": "read"
         }
@@ -2893,7 +3159,7 @@
               "name": "Lewis Carroll"
             }
           ],
-          "tumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1580640816/cover_gqorkk.jpg",
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_carroll_alices_adventures_in_wonderland_coevc4.jpg",
           "price": "free",
           "shelf": "reading"
         }
@@ -2957,7 +3223,7 @@
               "name": "Edward Bulwer Lytton"
             }
           ],
-          "tumbnail": "https://via.placeholder.com/325",
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_bulwer-lytton_zanoni_efabdd.jpg",
           "price": "free",
           "shelf": "reading"
         },
@@ -2970,7 +3236,7 @@
               "name": "Herman Hesse"
             }
           ],
-          "tumbnail": "https://via.placeholder.com/325",
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432131/cover_hesse_siddhartha_jmsaxa.jpg",
           "price": "free",
           "shelf": "reed"
         },
@@ -2983,7 +3249,7 @@
               "name": "Ralph Waldo Emerson"
             }
           ],
-          "tumbnail": "https://via.placeholder.com/325",
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432131/cover_emerson_essyes_qrznjz.jpg",
           "price": "free",
           "shelf": "reed"
         },
@@ -2996,7 +3262,7 @@
               "name": "Frank Norris"
             }
           ],
-          "tumbnail": "https://via.placeholder.com/325",
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_norris_mcteague_rmf2fa.jpg",
           "price": "free",
           "shelf": "read"
         },
@@ -3009,7 +3275,7 @@
               "name": "Homer"
             }
           ],
-          "tumbnail": "https://via.placeholder.com/325",
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_homer_iliad_nmmqbl.jpg",
           "price": "free",
           "shelf": "read"
         }
@@ -3073,7 +3339,7 @@
               "name": "Edward Bulwer Lytton"
             }
           ],
-          "tumbnail": "https://via.placeholder.com/325",
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_bulwer-lytton_zanoni_efabdd.jpg",
           "price": "free",
           "shelf": "reading"
         },
@@ -3086,7 +3352,7 @@
               "name": "Frank Norris"
             }
           ],
-          "tumbnail": "https://via.placeholder.com/325",
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_norris_mcteague_rmf2fa.jpg",
           "price": "free",
           "shelf": "read"
         },
@@ -3099,7 +3365,7 @@
               "name": "Homer"
             }
           ],
-          "tumbnail": "https://via.placeholder.com/325",
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_homer_iliad_nmmqbl.jpg",
           "price": "free",
           "shelf": "read"
         }
@@ -3160,7 +3426,7 @@
               "name": "Herman Hesse" 
             }
           ],
-          "tumbnail": "https://via.placeholder.com/325",
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432131/cover_hesse_siddhartha_jmsaxa.jpg",
           "price": "free",
           "shelf": "read"
         },
@@ -3173,7 +3439,7 @@
               "name": "Ralph Waldo Emerson"
             }
           ],
-          "tumbnail": "https://via.placeholder.com/325",
+          "thumbnail": "https://res.cloudinary.com/ninaw/image/upload/v1581432131/cover_emerson_essyes_qrznjz.jpg",
           "price": "free",
           "shelf": "read"
         }

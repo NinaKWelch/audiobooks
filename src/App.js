@@ -1,28 +1,25 @@
-import React, { useState, useEffect } from 'react'
+import React, { useEffect } from 'react'
+import { connect } from 'react-redux'
 import { BrowserRouter as Router } from 'react-router-dom'
-import catalogueService from './services/catalogue'
+import PropTypes from 'prop-types'
+import { initializeCatalogue } from './reducers/catalogueReducer'
 import Library from './components/Library'
 
-const App = () => {
-  const [catalogue, setCatalogue] = useState([])
-
+const App = props => {
   useEffect(() => {
-    catalogueService.getAll().then(initialCatalogue => {
-      setCatalogue(initialCatalogue)
-    })
+    props.initializeCatalogue()
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
   return (
     <Router>
-      <div>
-        {catalogue.length > 0 ? (
-          <Library catalogue={catalogue} />
-        ) : (
-          <div>Loading...</div>
-        )}
-      </div>
+      <Library />
     </Router>
   )
 }
 
-export default App
+App.propTypes = {
+  initializeCatalogue: PropTypes.func.isRequired
+}
+
+export default connect(null, { initializeCatalogue })(App)

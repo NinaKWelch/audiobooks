@@ -1,68 +1,32 @@
-import React from 'react'
+import React, { useState } from 'react'
 import PropTypes from 'prop-types'
-import { Box, Typography } from '@material-ui/core'
+import BookSectionContent from './BookSectionContent'
+import BookSectionAudio from './BookSectionAudio'
 
-const BookSection = ({ section, handleAudio }) => {
-  const play = time => {
-    handleAudio(time)
-  }
+const BookSection = ({ section, audiobookId }) => {
+  const [marker, setMarker] = useState(null)
 
-  if (section.type === 'illustration') {
-    return (
-      <Box
-        maxWidth={section.width}
-        mt={0}
-        ml={section.position === 'right' ? 2 : 0}
-        mr={section.position === 'left' ? 2 : 0}
-        clone
-      >
-        <figure style={{ float: `${section.position}` }}>
-          <img src={section.content} alt={section.alt} />
-          <figcaption style={{ textAlign: 'center', fontStyle: 'italic' }}>
-            {section.caption}
-          </figcaption>
-        </figure>
-      </Box>
-    )
-  }
-
-  if (section.type === 'rhyme') {
-    return (
-      <Box
-        mb={1}
-        onClick={() => play(section.timestamp)}
-        style={{ cursor: 'pointer' }}
-      >
-        {section.content.map(c => (
-          <Typography key={c.number} variant="body1" align="center">
-            {c.line}
-          </Typography>
-        ))}
-      </Box>
-    )
+  const toggleAudioByText = async id => {
+    // eslint-disable-next-line eqeqeq
+    const subsection = await section.subsections.find(s => s.id == id)
+    setMarker(subsection.marker.id)
   }
 
   return (
-    <Box onClick={() => play(section.timestamp)} style={{ cursor: 'pointer' }}>
-      <Typography variant="body1" gutterBottom>
-        {section.content}
-      </Typography>
-    </Box>
+    <>
+      <BookSectionContent section={section} handleAudio={toggleAudioByText} />
+      <BookSectionAudio
+        audiobookId={audiobookId}
+        sectionId={section.id}
+        marker={marker}
+      />
+    </>
   )
 }
 
 BookSection.propTypes = {
-  section: PropTypes.shape({
-    type: PropTypes.string.isRequired,
-    content: PropTypes.oneOfType([PropTypes.string, PropTypes.array]),
-    timestamp: PropTypes.number,
-    illustration: PropTypes.string,
-    alt: PropTypes.string,
-    caption: PropTypes.string,
-    width: PropTypes.number,
-    position: PropTypes.string
-  }).isRequired,
-  handleAudio: PropTypes.func.isRequired
+  section: PropTypes.shape().isRequired,
+  audiobookId: PropTypes.number.isRequired
 }
 
 export default BookSection

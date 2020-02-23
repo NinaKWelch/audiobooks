@@ -18,7 +18,7 @@ const useStyles = makeStyles({
   }
 })
 
-const BookListItem = ({ book }) => {
+const BooksListItem = ({ book }) => {
   const classes = useStyles()
 
   return (
@@ -33,7 +33,7 @@ const BookListItem = ({ book }) => {
       >
         <Grid item xs={3} sm={4} md={3}>
           <img
-            src={book.cover.thumbnail}
+            src={book.thumbnail}
             alt="book cover"
             className={classes.cover}
           />
@@ -58,13 +58,31 @@ const BookListItem = ({ book }) => {
   )
 }
 
-BookListItem.propTypes = {
+BooksListItem.propTypes = {
   book: PropTypes.shape({
-    id: PropTypes.number,
-    cover: PropTypes.object,
-    title: PropTypes.string,
-    authors: PropTypes.array
-  }).isRequired
+    id: PropTypes.number.isRequired,
+    thumbnail: PropTypes.string,
+    title: PropTypes.string.isRequired,
+    authors: PropTypes.arrayOf(
+      PropTypes.shape({
+        name: PropTypes.string.isRequired,
+        initials: PropTypes.string,
+        surname: PropTypes.string
+      })
+    )
+  })
 }
 
-export default BookListItem
+BooksListItem.defaultProps = {
+  book: PropTypes.shape({
+    thumbnail: 'https://via.placeholder.com/220',
+    authors: PropTypes.arrayOf(
+      PropTypes.shape({
+        initials: '',
+        surname: ''
+      })
+    )
+  })
+}
+
+export default BooksListItem

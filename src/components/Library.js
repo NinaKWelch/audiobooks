@@ -1,24 +1,22 @@
 import React from 'react'
-import PropTypes from 'prop-types'
-import { Container } from '@material-ui/core'
-import Header from './Header'
-import BookList from './BookList'
-import Footer from './Footer'
+import { Switch, Route, Redirect } from 'react-router-dom'
+import Books from './Books'
+import Book from './Book'
 
-const Library = ({ catalogue }) => {
+const Library = () => {
   return (
     <div>
-      <Header />
-      <Container>
-        <BookList books={catalogue} />
-      </Container>
-      <Footer />
+      <Switch>
+        <Route path="/books/:bookId">
+          <Book />
+        </Route>
+        <Route exact path="/books">
+          <Books />
+        </Route>
+        <Redirect to="/books" />
+      </Switch>
     </div>
   )
-}
-
-Library.propTypes = {
-  catalogue: PropTypes.arrayOf(PropTypes.object).isRequired
 }
 
 export default Library

@@ -1,20 +1,20 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Grid } from '@material-ui/core'
-import BookListItem from './BookListItem'
+import BooksListItem from './BooksListItem'
 
-const BookList = ({ books }) => {
+const BooksList = ({ books }) => {
   return (
     <Grid container component="main" spacing={3}>
       {books.map(book => (
-        <BookListItem item key={book.id} book={book} />
+        <BooksListItem item key={book.id} book={book} />
       ))}
     </Grid>
   )
 }
 
-BookList.propTypes = {
+BooksList.propTypes = {
   books: PropTypes.arrayOf(PropTypes.object).isRequired
 }
 
-export default BookList
+export default BooksList

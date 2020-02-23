@@ -1,51 +1,41 @@
-import React, { useState } from 'react'
+import React, { useEffect } from 'react'
+import { connect } from 'react-redux'
+import { useParams } from 'react-router-dom'
 import PropTypes from 'prop-types'
-import { Typography, IconButton } from '@material-ui/core'
-import { NavigateBefore as NavigateBeforeIcon } from '@material-ui/icons'
-import TopBar from './TopBar'
-import AudioPlayer from './AudioPlayer'
+import { initializeBook } from '../reducers/bookReducer'
 import BookContent from './BookContent'
+import NoBookMatch from './NoBookMatch'
 
-const Book = ({ book }) => {
-  const [track, setTrack] = useState(book.chapters[0])
+const Book = props => {
+  const { bookId } = useParams()
+  const { book } = props
 
-  const loadPlayer = () => {
-    const player = document.getElementById('audioPlayer')
-    player.load()
-  }
-
-  const toggleChapter = async id => {
-    loadPlayer()
-    // eslint-disable-next-line eqeqeq
-    const chapter = await book.chapters.find(c => c.number == id)
-    setTrack(chapter)
-  }
-
-  const toggleAudio = t => {
-    const player = document.getElementById('audioPlayer')
-    player.currentTime = t
-  }
+  useEffect(() => {
+    props.initializeBook(bookId)
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
 
   return (
-    <div>
-      <TopBar>
-        <IconButton color="inherit" aria-label="back">
-          <NavigateBeforeIcon />
-        </IconButton>
-        <Typography>Back</Typography>
-      </TopBar>
-      <BookContent
-        book={book}
-        handleChapter={toggleChapter}
-        handleAudio={toggleAudio}
-      />
-      <AudioPlayer track={track.audio} />
-    </div>
+    // eslint-disable-next-line eqeqeq
+    <>{book.id == bookId ? <BookContent book={book} /> : <NoBookMatch />}</>
   )
 }
 
 Book.propTypes = {
-  book: PropTypes.shape().isRequired
+  initializeBook: PropTypes.func.isRequired,
+  book: PropTypes.shape({
+    id: PropTypes.number
+  }).isRequired
 }
 
-export default Book
+const mapStateToProps = state => {
+  return {
+    book: state.book
+  }
+}
+
+const mapDispatchToProps = {
+  initializeBook
+}
+
+export default connect(mapStateToProps, mapDispatchToProps)(Book)

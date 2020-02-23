@@ -35,7 +35,7 @@
           "id": 10000,
           "title": "",
           "authors": [{ "id": 20000, "name": ""}],
-          "tumbnail": "https://via.placeholder.com/325"
+          "thumbnail": "https://via.placeholder.com/325"
         }
       ]
     }
@@ -48,11 +48,25 @@
       "authors": [{ "id": 20000, "name": "" }],
       "illustrators": [{ "id": 30000, "name": "" }],
       "cover": "https://via.placeholder.com/750",
+      "audiobook": {
+        "id": 50000
+      },
       "parts": [
         {
           "id": 10000.1,
           "type": "",
           "title": "",
+          "subtitle": "",
+          "prologue": [
+            {
+              "id": 10000.10,
+              "type": "",
+              "content": "",
+              "marker": {
+                "id": 50000.10
+              }
+            }
+          ],
           "sections": [
             {
               "id": 10000.11,
@@ -116,7 +130,7 @@
       "price": "free",
       "downloads": 0,
       "rating": 0,
-      "tumbnail": "https://via.placeholder.com/325"
+      "thumbnail": "https://via.placeholder.com/325"
     }
   ],
   "clubs": [
@@ -148,7 +162,7 @@
           "id": 10000,
           "title": "",
           "authors": [{ "id": 20000, "name": ""}],
-          "tumbnail": "https://via.placeholder.com/325"
+          "thumbnail": "https://via.placeholder.com/325"
         }
       ]
     }
@@ -164,7 +178,7 @@
           "id": 10000,
           "title": "",
           "authors": [{ "id": 20000, "name": ""}],
-          "tumbnail": "https://via.placeholder.com/325"
+          "thumbnail": "https://via.placeholder.com/325"
         }
       ]
     }
@@ -181,7 +195,7 @@
           "id": 10000,
           "title": "",
           "authors": [{ "id": 20000, "name": ""}],
-          "tumbnail": "https://via.placeholder.com/325"
+          "thumbnail": "https://via.placeholder.com/325"
 
         }
       ]
@@ -210,7 +224,7 @@
           "id": 10000,
           "title": "",
           "authors": [{ "id": 20000, "name": ""}],
-          "tumbnail": "https://via.placeholder.com/325",
+          "thumbnail": "https://via.placeholder.com/325",
           "price": "",
           "shelf": ""
         }
