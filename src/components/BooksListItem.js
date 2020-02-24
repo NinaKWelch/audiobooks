@@ -9,9 +9,6 @@ const useStyles = makeStyles({
     cursor: 'pointer',
     textDecoration: 'none'
   },
-  title: {
-    // change font size
-  },
   cover: {
     width: '100%',
     height: 'auto'
@@ -39,9 +36,7 @@ const BooksListItem = ({ book }) => {
           />
         </Grid>
         <Grid item xs={9} sm={8} md={9}>
-          <Typography variant="h5" className={classes.title}>
-            {book.title}
-          </Typography>
+          <Typography variant="h5">{book.title}</Typography>
 
           {book.authors.map(author => (
             <Typography

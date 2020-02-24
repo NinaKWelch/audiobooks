@@ -11,7 +11,7 @@ const Footer = () => {
     >
       <Grid item>
         <Typography variant="body2">
-          Copyrignt &copy; 2020 <strong>Nina Welch</strong>
+          Copyright &copy; 2020 <strong>Nina Welch</strong>
         </Typography>
       </Grid>
     </Grid>

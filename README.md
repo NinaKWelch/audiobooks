@@ -1,65 +1,87 @@
-# Audiobooks
+# Äänikirjat
 
 Full Stack 2019 Harjoitustyö 
 
-## Website
+## Kuvaus
 
-## Screenshots
+Löydä äänikirjoja, joita voit myös lukea.
 
-## How to Use
+- Sovelluksen käyttötarkoitus
 
-## Schedule
+  - hae kirjoja genren, kirjailijan tai kirjan nimen perusteella
+
+  - valitse kuuntelun ja lukemisen välillä tai lue samalla kun kuuntelet
+
+  - hallitse kuuntelua tekstin avulla 
+
+- Käyttäjille
+
+  - luo tunnus
+
+  - tallenna kirjoja lukulistallesi
+
+  - jatka kuntelua siitä kohdasta, johon viimeksi jäit
+
+  - lisää kirjanmerkkejä tai henkilökohtaisia muistiinpanoja lukemaasi kirjaan (ei näy muille)
+
+## Verkkosivut
+
+## Kuvakaappaukset
+
+## Käyttöohjeet
+
+## Aikataulu
 
 [Työaikakirjanpito](https://github.com/NinaKWelch/audiobooks/wiki)
 
-## Books
+## Kirjat
 
-### 1. Alice's Adventures in Wonderland by Lewis Carroll
+### 1. Alice's Adventures in Wonderland, Lewis Carroll
 
 ![](https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_carroll_alices_adventures_in_wonderland_coevc4.jpg)
 
-- [book](http://www.gutenberg.org/files/28885/28885-h/28885-h.htm)
-- [audio](https://librivox.org/alices-adventures-in-wonderland-by-lewis-carroll-3/)
-- [cover](https://ia600300.us.archive.org/11/items/LibrivoxCdCoverArt19/Alices_Adventures_in_Wonderland5.jpg)
+- [kirja](http://www.gutenberg.org/files/28885/28885-h/28885-h.htm)
+- [äänitys](https://librivox.org/alices-adventures-in-wonderland-by-lewis-carroll-3/)
+- [kansi](https://ia600300.us.archive.org/11/items/LibrivoxCdCoverArt19/Alices_Adventures_in_Wonderland5.jpg)
 
-### 2. Zanoni by Edward Bulwer Lytton
+### 2. Zanoni, Edward Bulwer Lytton
 
 ![](https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_bulwer-lytton_zanoni_efabdd.jpg)
 
 
-- [book](http://www.gutenberg.org/files/2664/2664-h/2664-h.htm)
-- [audio](https://librivox.org/zanoni-by-edward-bulwer-lytton/)
-- [cover](https://images-na.ssl-images-amazon.com/images/I/51Gct6XqEIL._SX342_.jpg)
+- [kirja](http://www.gutenberg.org/files/2664/2664-h/2664-h.htm)
+- [äänitys](https://librivox.org/zanoni-by-edward-bulwer-lytton/)
+- [kansi](https://images-na.ssl-images-amazon.com/images/I/51Gct6XqEIL._SX342_.jpg)
 
-### 3. Siddhartha by Hermann Hesse
+### 3. Siddhartha, Hermann Hesse
 
 ![](https://res.cloudinary.com/ninaw/image/upload/v1581432131/cover_hesse_siddhartha_jmsaxa.jpg)
 
-- [book](http://www.gutenberg.org/files/2500/2500-h/2500-h.htm)
-- [audio](https://librivox.org/siddhartha-by-hermann-hesse/)
-- [cover](https://m.media-amazon.com/images/I/516B8zqrjwL._SL500_.jpg)
+- [kirja](http://www.gutenberg.org/files/2500/2500-h/2500-h.htm)
+- [äänitys](https://librivox.org/siddhartha-by-hermann-hesse/)
+- [kansi](https://m.media-amazon.com/images/I/516B8zqrjwL._SL500_.jpg)
 
-### 5. Essays, First Series by Ralph Waldo Emerson
+### 5. Essays: First Series, Ralph Waldo Emerson
 
 ![](https://res.cloudinary.com/ninaw/image/upload/v1581432131/cover_emerson_essyes_qrznjz.jpg)
 
-- [book](http://www.gutenberg.org/files/2944/2944-h/2944-h.htm#link2H_4_0002)
-- [audio](https://librivox.org/essays-first-series-by-ralph-waldo-emerson/)
-- [cover](https://images.findawayworld.com/v1/image/cover/CD077890?height=220&width=220)
+- [kirja](http://www.gutenberg.org/files/2944/2944-h/2944-h.htm#link2H_4_0002)
+- [äänitys](https://librivox.org/essays-first-series-by-ralph-waldo-emerson/)
+- [kansi](https://images.findawayworld.com/v1/image/cover/CD077890?height=220&width=220)
 
-### 5. McTeague by Frank Norris
+### 5. McTeague, Frank Norris
 
 ![](https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_norris_mcteague_rmf2fa.jpg)
 
-- [book](http://www.gutenberg.org/files/165/165-h/165-h.htm)
-- [audio](https://librivox.org/mcteague-by-frank-norris/)
-- [cover](https://s3-us-west-2.amazonaws.com/tabs.web.media/1/4/1414/1414-square-1536.jpg)
+- [kirja](http://www.gutenberg.org/files/165/165-h/165-h.htm)
+- [äänitys](https://librivox.org/mcteague-by-frank-norris/)
+- [kansi](https://s3-us-west-2.amazonaws.com/tabs.web.media/1/4/1414/1414-square-1536.jpg)
 
-### 6. Iliad by Homer
+### 6. Iliad, Homer
 
 ![](https://res.cloudinary.com/ninaw/image/upload/v1581432132/cover_homer_iliad_nmmqbl.jpg)
 
-- [book](http://www.gutenberg.org/files/2199/2199-h/2199-h.htm)
-- [audio](https://librivox.org/the-iliad-by-homer-translated-by-samuel-butler/)
-- [cover](https://m.media-amazon.com/images/I/5168DSbCuuL._SL500_.jpg)
-- [illustrations](http://www.gutenberg.org/files/6130/6130-h/6130-h.htm)
+- [kirja](http://www.gutenberg.org/files/2199/2199-h/2199-h.htm)
+- [äänitys](https://librivox.org/the-iliad-by-homer-translated-by-samuel-butler/)
+- [kansi](https://m.media-amazon.com/images/I/5168DSbCuuL._SL500_.jpg)
+- [kuvitus](http://www.gutenberg.org/files/6130/6130-h/6130-h.htm)

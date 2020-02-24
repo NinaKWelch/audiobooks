@@ -16,7 +16,7 @@ const useStyles = makeStyles(theme => ({
   }
 }))
 
-const BookSectionTopNav = ({ url }) => {
+const BookSectionTopBar = ({ url }) => {
   const classes = useStyles()
 
   return (
@@ -30,8 +30,8 @@ const BookSectionTopNav = ({ url }) => {
   )
 }
 
-BookSectionTopNav.propTypes = {
+BookSectionTopBar.propTypes = {
   url: PropTypes.number.isRequired
 }
 
-export default BookSectionTopNav
+export default BookSectionTopBar

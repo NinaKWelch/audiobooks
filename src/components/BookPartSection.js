@@ -3,7 +3,7 @@ import { connect } from 'react-redux'
 import { useParams } from 'react-router-dom'
 import PropTypes from 'prop-types'
 import NoBookMatch from './NoBookMatch'
-import BookSectionTopNav from './BookSectionTopNav'
+import BookSectionTopBar from './BookSectionTopBar'
 import BookPartHeader from './BookPartHeader'
 import BookPartPrologue from './BookPartPrologue'
 import BookSection from './BookSection'
@@ -21,7 +21,7 @@ const BookPartSection = props => {
 
   return (
     <div>
-      <BookSectionTopNav url={book.id} />
+      <BookSectionTopBar url={book.id} />
       {part.type && part.sections[0].id === section.id ? (
         <>
           <BookPartHeader title={part.title} subtitle={part.subtitle} />
